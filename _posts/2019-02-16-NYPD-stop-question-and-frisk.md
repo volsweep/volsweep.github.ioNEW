@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NYPD TK Stop, Question and Frisk"
+title:  "NYPD Stop, Question and Frisk"
 ---
 <!--more-->
 
