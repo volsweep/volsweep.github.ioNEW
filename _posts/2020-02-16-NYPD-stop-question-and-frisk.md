@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "NYPD Stop, Question and Frisk"
+date: 2020-02-17 16:00:00 -0400
 ---
 <!--more-->
 
