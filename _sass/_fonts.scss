@@ -5,6 +5,73 @@
 @charset "UTF-8";
 
 @font-face {
+    font-family: 'dm_sans_mediumregular';
+    src: url('https://www.volsweep.com/static/webfontkit/dm-sans-500-webfont.woff2') format('woff2'),
+         url('https://www.volsweep.com/static/webfontkit/dm-sans-500-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dm_sans_mediumitalic';
+    src: url('https://www.volsweep.com/static/webfontkit/dm-sans-500italic-webfont.woff2') format('woff2'),
+         url('https://www.volsweep.com/static/webfontkit/dm-sans-500italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dm_sansbold';
+    src: url('https://www.volsweep.com/static/webfontkit/dm-sans-700-webfont.woff2') format('woff2'),
+         url('https://www.volsweep.com/static/webfontkit/dm-sans-700-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dm_sansbold_italic';
+    src: url('https://www.volsweep.com/static/webfontkit/dm-sans-700italic-webfont.woff2') format('woff2'),
+         url('https://www.volsweep.com/static/webfontkit/dm-sans-700italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dm_sansitalic';
+    src: url('https://www.volsweep.com/static/webfontkit/dm-sans-italic-webfont.woff2') format('woff2'),
+         url('https://www.volsweep.com/static/webfontkit/dm-sans-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dm_sansregular';
+    src: url('/css/fonts/dm-sans-regular-webfont.woff2') format('woff2'),
+         url('/css/fonts/dm-sans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gt_pressura_monobold';
+    src: url('/css/fonts/gt-pressura-mono-bold-webfont.woff2') format('woff2'),
+         url('/css/fonts/gt-pressura-mono-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
   font-family: ETbook;
   src: url("../fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot");
   src: url("../fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot?#iefix") format("embedded-opentype"), url("../fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff") format("woff"), url("../fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf") format("truetype"), url("../fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.svg#etbemboromanosf") format("svg");
