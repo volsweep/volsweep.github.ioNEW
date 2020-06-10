@@ -2,8 +2,8 @@ baseurl: /volsweep_blog
 # baseurl:
 title: The Sweep
 subtitle: A Data Blog
-author: REV
-simple_search: http://google.com/search
+author: VolSweep, Inc.
+simple_search: https://duckduckgo.com/
 description: Open-sourced data exploration
 name: VolSweep Blog
 markdown: kramdown
