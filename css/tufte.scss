@@ -278,7 +278,7 @@ section { padding-top: 1rem;
 ul,ol { width: 45%;
      -webkit-padding-start: 5%;
      -webkit-padding-end: 5%;
-     // list-style-type: none; 
+     // list-style-type: none;
    }
 
 //li { padding: 0.5em 0; } //vertical padding on list items screws up vertical rhythym
@@ -421,6 +421,39 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 .smaller { font-size: 80%;}
 //Nav and Footer styling area
 
+.topnav {
+  display: flex;
+  align-items: center;
+  position: relative;
+  height: 50px;
+  width: 100%;
+}
+
+.topnav:before {
+  content: "";
+  height: 100%;
+  background-color: $dark-blue;
+  position: absolute;
+  width: 500%;
+  margin-left: -200%;
+  z-index: -1;
+}
+
+.topnav a {
+  display: inline-block;
+  color: white;
+  padding-bottom: 3px;
+  margin-right: 2rem;
+}
+
+.topnav a.logo-link {
+  padding: 0 12px;
+}
+
+.topnav img.logo {
+  height: 23px;
+}
+
 header > nav.group, body footer {
   width: 95%;
   padding-top: 2rem;
@@ -429,28 +462,28 @@ header > nav.group, body footer {
 nav.group a.active:before{ content:"\0003c\000a0";} // escaped unicode for the carats and then a space on active menu links
 nav.group a.active:after{ content:"\000a0\0003e" ;}
 
-header > nav  a{
-  font-size: 1.2rem;
-  font-family: $sans-font;
-  letter-spacing: 0.15em;
-  text-transform: uppercase;
-  color: $contrast-color;
-  padding-top: 1.5rem;
-  text-decoration: none;
-  display: inline-block;
-  float: left;
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-right: 2rem;
-  //margin-left: 1rem;
-  vertical-align: baseline;
-}
-header > nav a img{
-  height: 5rem;
-  position: relative;
-  max-width: 100%;
-  top:-1.5rem;
-}
+// header > nav  a{
+//   font-size: 1.2rem;
+//   font-family: $sans-font;
+//   letter-spacing: 0.15em;
+//   text-transform: uppercase;
+//   color: $contrast-color;
+//   padding-top: 1.5rem;
+//   text-decoration: none;
+//   display: inline-block;
+//   float: left;
+//   margin-top: 0;
+//   margin-bottom: 0;
+//   padding-right: 2rem;
+//   //margin-left: 1rem;
+//   vertical-align: baseline;
+// }
+// header > nav a img{
+//   height: 5rem;
+//   position: relative;
+//   max-width: 100%;
+//   top:-1.5rem;
+// }
 ul.footer-links, .credits{
   list-style: none;
   text-align: center;
