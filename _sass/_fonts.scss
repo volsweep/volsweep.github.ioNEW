@@ -46,16 +46,16 @@
 
 @font-face {
     font-family: 'dm_sansregular';
-    src: url('/css/fonts/dm-sans-regular-webfont.woff2') format('woff2'),
-         url('/css/fonts/dm-sans-regular-webfont.woff') format('woff');
+    src: url('../fonts/dm-sans/dm-sans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/dm-sans/dm-sans-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'gt_pressura_monobold';
-    src: url('/css/fonts/gt-pressura-mono-bold-webfont.woff2') format('woff2'),
-         url('/css/fonts/gt-pressura-mono-bold-webfont.woff') format('woff');
+    src: url('../fonts/gt-pressura/gt-pressura-mono-bold-webfont.woff2') format('woff2'),
+         url('../fonts/gt-pressura/gt-pressura-mono-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
