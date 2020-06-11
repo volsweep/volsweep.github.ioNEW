@@ -7,7 +7,7 @@ date: 2020-02-17 16:00:00 -0400
 
 {% fullwidth "https://volsweep.github.io/assets/NYC_OpenData/NYPD/SQF/race_histo.png" "Histogram by race" %}
 
-{% fullwidth 'assets/img/rhino.png' "Histogram TEST by race" %}
+{% fullwidth 'assets/img/badge.png' "Histogram TEST by race" %}
 
 The New York Police Department's, "Stop, Question, Frisk," program is featuring prominently in the &#8594;[news]({{ site.url }}/assets/NYC_OpenData/NYPD/SQF/google_trends.png)&#8592; recently. We examined the data from NYC OpenData a few years ago and resurrected the project to share an observation or two. All relevant code is in &#8594;[this](https://github.com/volsweep/volsweep.github.io/tree/master/projects/NYC_OpenData/NYPD/SQF)&#8592; GitHub repository. Data are &#8594;[here](http://www1.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page)&#8592;.
 
