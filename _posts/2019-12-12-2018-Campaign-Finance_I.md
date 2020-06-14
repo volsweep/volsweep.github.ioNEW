@@ -60,7 +60,7 @@ The full House of Representatives plot is a bit long to display, so head [here](
 
 Like we did for the Senate, [here]({{ site.url }}/assets/FECpt1/house_2018_unexpecteds.png) is a plot of all House contests where Hypothesis &#35;1 is wrong or we can't use it. There seems to be some amount of total funding between $3-5MM when Republican incumbents become more likely to lose to Democratic challengers. To better visualize the relationship between candidates' funding in these scenarios, here is a scatterplot of Republican candidate total funds received versus Democratic candidate total funds received.  Note that the marker color shows the *winner's* party affiliation, not the *higher-funded candidate's* party affiliation:
 
-{% maincolumn "https://blog.volsweep.com/assets/img/FECpt1/scatter_RvD_House.png" "House unexpecteds scatter plot" %}
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt1/scatter_RvD_House.png" "Unexpected 2018 House contests, relative funding" %}
 
 This brings us to something like:
 
@@ -68,7 +68,7 @@ This brings us to something like:
 
 And, finally, [here](https://blog.volsweep.com/assets/img/FECpt1/house_2018_most_unexpecteds.png) are the contests remaining after we remove the ones where a Republican incumbent was behind in fundraising (resulting in either a win or a loss; raw data [here]({{ site.url }}/assets/FECpt1/oddest_house_2018.png)), and the scatterplot:
 
-{% maincolumn "https://blog.volsweep.com/assets/img/FECpt1/scatter_RvD_House2.png" "Most-unexpected 2018 House contests" %}
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt1/scatter_RvD_House2.png" "Most-unexpected 2018 House contests, relative funding" %}
 
 So, what happened?
 
