@@ -3,7 +3,7 @@ layout: post
 title:  "2018 Campaign Finance, Part I: A Retrospective"
 ---
 
-###### Incumbents ahead in funding almost always win Congressional elections (see 2018 counts [here](https://blog.volsweep.com/assets/img/FECpt1/profile_breakdowns.png)). In 2018, excluding contests with unopposed candidates, 97% of incumbents ahead in funding won in House contests (243/250) and 92% won in Senate contests (24/26)).<!--more-->
+###### Incumbents ahead in funding almost always win Congressional elections. In 2018, excluding unopposed candidates, 97% of incumbents ahead in funding won in House contests (243/250) and 92% won in Senate contests (24/26)). See counts [here](https://blog.volsweep.com/assets/img/FECpt1/profile_breakdowns.png).<!--more-->
 
 Even when there is not an incumbent ahead in funding, there are other patterns between campaign finance filings and election outcomes which could help predict winners of future contests.
 
