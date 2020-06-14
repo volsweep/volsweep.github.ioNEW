@@ -3,13 +3,11 @@ layout: post
 title:  "2018 Campaign Finance, Part I: A Retrospective"
 ---
 
-###### Incumbents ahead in funding almost always win Congressional elections. In 2018, excluding unopposed candidates, 97% of incumbents ahead in funding won in House contests (243/250) and 92% won in Senate contests (24/26)). See counts [here](https://blog.volsweep.com/assets/img/FECpt1/profile_breakdowns.png).<!--more-->
-
-Even when there is not an incumbent ahead in funding, there are other patterns between campaign finance filings and election outcomes which could help predict winners of future contests.
+###### Incumbents ahead in funding almost always win Congressional elections. In 2018, 97% of incumbents ahead in funding won in House contests (243/250) and 92% won in Senate contests (24/26)). Even when the incumbent is not ahead in funding, there are other patterns between campaign finance filings and election outcomes which could help predict winners of future contests.<!--more-->
 
 The Federal Election Commission (FEC) publishes U.S. federal election campaign finance data {% sidenote "1" "https://www.fec.gov/data/browse-data/?tab=bulk-data" %}. We noticed interesting patterns in the 2020 filings so far, so we analyzed the 2018 midterm filings to see how well they would have predicted the actual election outcomes {% sidenote "2" "https://ballotpedia.org/United_States_Congress_elections,_2018" %}. We are sharing our findings in a series of blog posts since they are of general interest.
 
-This post is an overview of trends and exceptions in the 2018 data. The next posts will cover predictive model building and evaluation on 2018 data, and then 2020 predictions using those models. All relevant code is in [this](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018) GitHub repository. Let's look at the 2018 Senate plot and start hypothesizing.
+This post is an overview of trends and exceptions in the 2018 data. The next posts will cover predictive model building and evaluation on 2018 data, and then 2020 predictions using those models. All relevant code can be found [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC). We'll start out by looking at the 2018 Senate plot.
 
 
 ## U.S. Senate
