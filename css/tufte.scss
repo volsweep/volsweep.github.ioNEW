@@ -435,7 +435,8 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
   height: 100%;
   background-color: $dark-blue;
   position: absolute;
-  width: 500%;
+//  width: 500%;
+  width: 300%;
   margin-left: -200%;
   z-index: -1;
 }
