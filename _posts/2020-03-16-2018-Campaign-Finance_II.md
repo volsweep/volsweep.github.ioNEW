@@ -3,7 +3,7 @@ layout: post
 title: "2018 Campaign Finance, Part II: A Closer Look"
 date: 2020-03-16 16:00:00 -0400
 ---
-###### We continue our investigation of FEC campaign finance data sets.<!--more--> Observations include:
+*We continue our investigation of FEC campaign finance data sets. Observations include:*
 
 * *treasurers associated with nearly 100 committees,*
 * *individuals contributing tens of millions of dollars to (super-)PACs,*
@@ -13,14 +13,14 @@ date: 2020-03-16 16:00:00 -0400
 * *visual representation of finances for opposing candidates, including...*
 * *evidence that number of in-state individual contributors may be useful in predicting election outcome.*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Do you have domain knowledge of campaign finance regulations? I don't and would love to discuss. Please email contact@volsweep.com. General comments section at the bottom. Cheers, thanks for reading! &#8212;Rebecca*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Do you have domain knowledge of campaign finance regulations? I don't and would love to discuss. Please email contact@volsweep.com. Cheers, thanks for reading! &#8212;Rebecca*
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The &#8594;[first post](https://blog.volsweep.com/blog/2019/12/12/2018-Campaign-Finance_I.html)&#8592; in this series was an overview of trends and exceptions in Congressional midterm contests with respect to party affiliation, incumbency status, and relative funding status. (Recap: incumbents usually lead in fundraising and win. There appear to be some patterns in the exceptions.) This post will be a more in-depth look at the full set of data that the FEC publishes.[^1] As before, all relevant code is in &#8594;[this](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018)&#8592; GitHub repo.[^2] See notebook links for full outputs too long to include here. Documentation will improve in the future! Please ask any/all question until then (and after, too).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The [first post](https://blog.volsweep.com/blog/2019/12/12/2018-Campaign-Finance_I.html) in this series was an overview of trends and exceptions in Congressional midterm contests with respect to party affiliation, incumbency status, and relative funding status. (Recap: incumbents usually lead in fundraising and win. There appear to be some patterns in the exceptions.) This post will be a more in-depth look at the full set of data that the FEC publishes.[^1] As before, all relevant code is in [this](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018) GitHub repo.[^2] See notebook links for full outputs too long to include here. Documentation will improve in the future! Please ask any/all question until then (and after, too).
 
 
 ### Data Set 1: "House/Senate current campaigns"
-> (notebook &#8594;[here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/01b%20-%202018_HouseSenateCurrentCampaigns_withwinners.ipynb)&#8592;)
+> (notebook [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/01b%20-%202018_HouseSenateCurrentCampaigns_withwinners.ipynb))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This data set has one candidate ID per row. We used this data set to construct the plots in the first post of this series, where we showed candidate fundraising status by contest and compared opponents. We know from this set the following breakdown of the top three contest "types" for each branch of Congress (compared close to election day):
 
@@ -36,13 +36,13 @@ date: 2020-03-16 16:00:00 -0400
 
 
 ### Data set 2: "Candidate-committee linkages"
-> (notebook &#8594;[here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/02a%20-%202018_CandidateCommitteeLinkages_clean.ipynb)&#8592;)
+> (notebook [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/02a%20-%202018_CandidateCommitteeLinkages_clean.ipynb))
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This data set has one row per candidate-committee pairing (note that it does not contain committees that are not linked to candidates). You can see the ones linked to at least three candidates, including candidate info, by searching "list starts here" on &#8594;[this](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/03a%20-%202018_CommitteeMaster_clean.ipynb)&#8592; page. The following candidates are linked to more than ten committees each: Tammy Baldwin, Sherrod Brown, Joe Donnelly, Heidi Heitkamp, Amy Klobuchar, Claire McCaskill, Bill Nelson, Jacky Rosen, Debbie Stabenow, and Jon Tester.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This data set has one row per candidate-committee pairing (note that it does not contain committees that are not linked to candidates). You can see the ones linked to at least three candidates, including candidate info, by searching "list starts here" on [this](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/03a%20-%202018_CommitteeMaster_clean.ipynb) page. The following candidates are linked to more than ten committees each: Tammy Baldwin, Sherrod Brown, Joe Donnelly, Heidi Heitkamp, Amy Klobuchar, Claire McCaskill, Bill Nelson, Jacky Rosen, Debbie Stabenow, and Jon Tester.
 
 
 ### Data set 3: "Committee master"
-> (notebook &#8594;[here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/03a%20-%202018_CommitteeMaster_clean.ipynb)&#8592;)
+> (notebook [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/03a%20-%202018_CommitteeMaster_clean.ipynb))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This data set has one row per committee. After deduplicating several columns, we found there are some treasurers associated with large numbers of committees, and some addresses associated with large numbers of committees. (A reminder that this is the low end count because committees linked to candidates not appearing on final ballots were removed during cleaning.) Here are some examples (committee counts in parentheses; only treasurers with two or more associated committees shown):
 
@@ -63,11 +63,11 @@ _Example #4_<br/>
 **Treasurers:** Christopher Marston (85), Brenda Hankins (4), (no treasurer listed) (2)<br/>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Search the phrase, "look here," in the &#8594;[notebook](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/03a%20-%202018_CommitteeMaster_clean.ipynb)&#8592; for full lists of committee names by address and treasurer.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Search the phrase, "look here," in the [notebook](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/03a%20-%202018_CommitteeMaster_clean.ipynb) for full lists of committee names by address and treasurer.
 
 
 ### Data set 4: "Contributions from committees to candidates & independent expenditures"
-> (lot of notebooks for this one! click on any: &#8594;[here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04ai%20-%202018_CommitteeContributions_clean_withwinner.ipynb), [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04aii%20-%202018_CommitteeContributions_clean_withwinner.ipynb), [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bi%20-%202018_CommitteeContributions_EDA1.ipynb), [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bii%20-%202018_CommitteeContributions_EDA1.ipynb), and [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bii%20-%202018_CommitteeContributions_EDA2.ipynb)&#8592;)
+> (lot of notebooks for this one! click on any: [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04ai%20-%202018_CommitteeContributions_clean_withwinner.ipynb), [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04aii%20-%202018_CommitteeContributions_clean_withwinner.ipynb), [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bi%20-%202018_CommitteeContributions_EDA1.ipynb), [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bii%20-%202018_CommitteeContributions_EDA1.ipynb), and [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bii%20-%202018_CommitteeContributions_EDA2.ipynb))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This data set has one contribution/independent expenditure (IE from now on) per row.[^3] The different types of contributions/independent expenditures are:
 
@@ -102,26 +102,15 @@ _Example #4_<br/>
 * End Citizens United ($11MM).
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig. 1
+{% maincolumn "assets/img/FECpt2/committees_log.png" "Fig. 1 PAC independent expenditures, Republican vs Democrat" %}   
 
-![PAC independent expenditures Republican vs Democrat]({{ site.url }}/assets/FECpt2/committees_log.png)  
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We see from the plot that most committees make IEs totaling from around $1,000 to $1,000,000. The committees seem to be spending with respect to candidates affiliated with both major parties, although not always on the same order of magnitude. (Note: This plot does not distinguish between IEs advocating vs opposing.) We also see that committees represented by yellower dots made IEs with respect a large number of candidates (100 or more).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We see from the plot that most committees make IEs totaling from around $1,000 to $1MM. The committees seem to be spending with respect to candidates affiliated with both major parties, although not always on the same order of magnitude. (Note: This plot does not distinguish between IEs advocating vs opposing.) We also see that committees represented by yellower dots made IEs with respect a large number of candidates (100 or more).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now, let's look at where these IEs are going. Each plot below represents, per recipient (i.e., the 'to' in each plot title), IEs advocating and/or opposing candidates. Each plot symbol represents one candidate. It's not immediately apparent, but the plots are sorted in decreasing order of total IE dollars received, from upper left corner to lower right corner (we left some out, go to notebook for full list & plots). Discussion below.
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 2: Waterfront Strategies</span><br/>
-    <a href="{{ site.url }}/assets/FECpt2/ie_WaterfrontStrategies.png">
-      <img alt="Waterfront Strategies" src="{{ site.url }}/assets/FECpt2/ie_WaterfrontStrategies.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 3: Nebo Media</span><br/>
-    <a href="{{ site.url }}/assets/FECpt2/ie_NeboMedia.png">
-      <img alt="Nebo Media" src="{{ site.url }}/assets/FECpt2/ie_NeboMedia.png" style="width: 100%">
+{% marginfigure "/assets/img/FECpt2/ie_WaterfrontStrategies.png">
+
+{% marginfigure "/assets/img/FECpt2/ie_NeboMedia.png" style="width: 100%">
     </a>
   </div>
   <div class="img-container">
@@ -166,34 +155,34 @@ _Example #4_<br/>
 
 [**Del Ray Media**](http://delraymediabuying.com/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Del Ray Media has a very minimal &#8594;[online presence](http://delraymediabuying.com/)&#8592;. It received almost $54.4MM in IEs, 98% of which was in opposition to candidates. We see in the plot that there are three Republican-affiliated candidates advocated, whereas almost all the opposed candidates are Democratic-affiliated challengers. The IEs came from NRCC ($49.5MM) and NRSC ($4.8MM).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Del Ray Media has a very minimal [online presence](http://delraymediabuying.com/). It received almost $54.4MM in IEs, 98% of which was in opposition to candidates. We see in the plot that there are three Republican-affiliated candidates advocated, whereas almost all the opposed candidates are Democratic-affiliated challengers. The IEs came from NRCC ($49.5MM) and NRSC ($4.8MM).
 
 
 [**Bully Pulpit Interactive**](https://bpimedia.com/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bully Pulpit Interactive (BPI) has a pretty strong &#8594;[online presence](https://bpimedia.com/)&#8592;. It received $41.7MM in IEs, $26.7MM of which came from Priorities USA Action. Other big spenders included Independence USA PAC ($5.9MM), NextGen Climate Action Committee ($3.9MM), Human Rights Campaign Equality Votes ($1.7MM), and LCV Victory Fund ($1.4MM). About 35% of IE dollars to BPI advocated candidates, and about 65% opposed. The U.S. Senate Florida contest saw a lot of IEs flowing to BPI, mostly from Priorities USA Action, with $4.5MM advocating incumbent Bill Nelson and $5.9MM opposing Rick Scott.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bully Pulpit Interactive (BPI) has a pretty strong [online presence](https://bpimedia.com/). It received $41.7MM in IEs, $26.7MM of which came from Priorities USA Action. Other big spenders included Independence USA PAC ($5.9MM), NextGen Climate Action Committee ($3.9MM), Human Rights Campaign Equality Votes ($1.7MM), and LCV Victory Fund ($1.4MM). About 35% of IE dollars to BPI advocated candidates, and about 65% opposed. The U.S. Senate Florida contest saw a lot of IEs flowing to BPI, mostly from Priorities USA Action, with $4.5MM advocating incumbent Bill Nelson and $5.9MM opposing Rick Scott.
 
 
 [**SKDKnickerbocker**](https://www.skdknick.com/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8594;[SKDKnickerbocker](https://www.skdknick.com/)&#8592; received about $30.5MM in IEs, the overwhelming majority of which came from Independence USA PAC ($25.4MM). Others who made large IEs to SKDKnickerbocker are the Environmental Defense Action Fund ($1.5MM), LCV Victory Fund ($1.4MM), and Everytown for Gun Safety Victory Fund ($724K). Interestingly, Everytown for Gun Safety Victory Fund made a very large number of $851 IEs to SKDKnickerbocker in opposition of candidates. Looking at the plot, the Republican-affiliated incumbent in the middle stands out; this is Randy Hultgren, who had Independence USA PAC spend about $460K opposing him and $19K advocating him. Otherwise the plot is very partisan, with most advocating IEs made with respect to Democratic-affiliated challengers and most opposing IEs made with respect to Republican-affiliated incumbents.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SKDKnickerbocker](https://www.skdknick.com/) received about $30.5MM in IEs, the overwhelming majority of which came from Independence USA PAC ($25.4MM). Others who made large IEs to SKDKnickerbocker are the Environmental Defense Action Fund ($1.5MM), LCV Victory Fund ($1.4MM), and Everytown for Gun Safety Victory Fund ($724K). Interestingly, Everytown for Gun Safety Victory Fund made a very large number of $851 IEs to SKDKnickerbocker in opposition of candidates. Looking at the plot, the Republican-affiliated incumbent in the middle stands out; this is Randy Hultgren, who had Independence USA PAC spend about $460K opposing him and $19K advocating him. Otherwise the plot is very partisan, with most advocating IEs made with respect to Democratic-affiliated challengers and most opposing IEs made with respect to Republican-affiliated incumbents.
 
 
 [**Facebook**](https://www.facebook.com/gpa)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8594;[Facebook, Inc.](https://www.facebook.com/gpa)&#8592;, received about $4.4MM in IEs, mostly from MoveOn.org Political Action ($2.7MM). Just over 80% of the total IE dollars to Facebook advocated candidates and the rest opposed. As you can see from the plot, proportionately more candidates had IEs both advocating and opposing them than in other plots we've just seen (i.e., the center of the plot is crowded).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Facebook, Inc.](https://www.facebook.com/gpa), received about $4.4MM in IEs, mostly from MoveOn.org Political Action ($2.7MM). Just over 80% of the total IE dollars to Facebook advocated candidates and the rest opposed. As you can see from the plot, proportionately more candidates had IEs both advocating and opposing them than in other plots we've just seen (i.e., the center of the plot is crowded).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The lefthand plots two sections down were constructed using this section's data set but are presented where they are in order to allow side-by-side comparisons.
 
 
 ### Data set 5: "Any transaction from one committee to another"
-> (notebook &#8594;[here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/06%20-%20CommitteeToCommittee.ipynb)&#8592;)
+> (notebook [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/06%20-%20CommitteeToCommittee.ipynb))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We took the subset of this data set containing any transfer to a principal campaign committees. The righthand plots in the next section were constructed using this data set.
 
 
 ### Data set 6: "Contributions by individuals"
-> (notebook &#8594;[here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/05a%20-%202018_IndividualContributions_clean1.ipynb)&#8592;)
+> (notebook [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/05a%20-%202018_IndividualContributions_clean1.ipynb))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This data set has one contribution from an individual per row. We had to do a lot of cleaning in this set in particular. Any names containing "anonymous", "unitemized", and/or anything like "hat pass" we switched to simply "Anonymous." The FEC rules state:
 
@@ -414,7 +403,7 @@ _Example #4_<br/>
   * Missouri Rising Action &#8212; $1.2MM.<br/><br/>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the previous FEC blog post in mind, let's go through some contests' cumulative financial plots to see what the fundraising landscape was like leading up to election day. We'll keep an eye out for things like who has more opposition money spent against them (usually in the form of attack ads), who has a higher in-state to out-of-state individual contributions ratio, etc. The statistical modeling in a future post will help us quantify the significance of these observations; right now, we're exploring the scene. As a refresher, see the Senate contest fundraising overview plot &#8594;[here]({{ site.url }}/assets/FECpt1/senate_2018.png)&#8592; and the House one (without contests where incumbents ahead in fundraising won) &#8594;[here]({{ site.url }}/assets/FECpt1/house_2018_unexpecteds.png)&#8592;. Remember, we're only looking at contests with one incumbent running (i.e., no open seats, no unopposed incumbents, and no contests with more than one incumbent (it did happen once in 2018 due to redistricting)). The faint vertical lines that are the same in every plot are FEC filing deadlines and election day.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the previous FEC blog post in mind, let's go through some contests' cumulative financial plots to see what the fundraising landscape was like leading up to election day. We'll keep an eye out for things like who has more opposition money spent against them (usually in the form of attack ads), who has a higher in-state to out-of-state individual contributions ratio, etc. The statistical modeling in a future post will help us quantify the significance of these observations; right now, we're exploring the scene. As a refresher, see the Senate contest fundraising overview plot [here]({{ site.url }}/assets/FECpt1/senate_2018.png) and the House one (without contests where incumbents ahead in fundraising won) [here]({{ site.url }}/assets/FECpt1/house_2018_unexpecteds.png). Remember, we're only looking at contests with one incumbent running (i.e., no open seats, no unopposed incumbents, and no contests with more than one incumbent (it did happen once in 2018 due to redistricting)). The faint vertical lines that are the same in every plot are FEC filing deadlines and election day.
 
 
 _**Scenario: incumbent ahead in fundraising who won**_
@@ -523,7 +512,7 @@ _**Scenario: incumbent behind in fundraising who won**_
 * Lawrence B Rasky, Jamaica Plain MA, Rasky Baerlein Strategic Comm Inc. CEO, $10,800
 * John D Ek, San Pedro CA, self-employed consultant, $10,800.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hugin personally contributed $73,477 to his own principal campaign committee, Bob Hugin for Senate Inc. In addition, at least 1,500 individuals contributed less than the combined FEC maximum. Those exceeding $10,000 are &#8594;[here]({{ site.url }}/assets/FECpt2/bigdonors/mccaskill_bigdonors.png)&#8592;.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hugin personally contributed $73,477 to his own principal campaign committee, Bob Hugin for Senate Inc. In addition, at least 1,500 individuals contributed less than the combined FEC maximum. Those exceeding $10,000 are [here]({{ site.url }}/assets/FECpt2/bigdonors/mccaskill_bigdonors.png).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In Fig. 10(c) we see why Hugin appears so far ahead in fundraising from the plot in the previous blog post; he transferred $44MM across 24 instances to Bob Hugin for Senate Inc. New Jersey Republican State Committee also transferred $375K, and the Founders Committee transferred $26K. Menendez for Senate received $2.2MM from the Mendendez Victory Fund, and $38K from Blue Senate 2018.
 
@@ -655,7 +644,7 @@ _**Scenario: incumbent behind in fundraising who lost**_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig. 14(a) shows that incumbent Dean Heller's fundraising was consistent throughout his term. Interestingly, unlike in other contests we've looked at, it appears that challenger Jacky Rosen started fundraising at the beginning of the incumbent's term. IEs opposing Heller began in earnest around June 2018 and continued strongly through the election. The largest of these were: SMP to Waterfront Strategies ($11.1MM, also $3MM to Blueprint Interactive), DSCC to Great American Media ($7.8MM), Majority Forward to Waterfront Strategies ($2.7MM), American Federation of State County and Municipal Employees PEOPLE to Waterfront Strategies ($1.5MM), and Women Vote! to Waterfront Strategies ($1.5MM). The largest IEs opposing Rosen were: Senate Leadership Fund to Main Street Media Group ($13.2MM, also $1.5MM to Arena Online, $852K to Arena Communications, $217K to DMM Media, $57K to Connection Strategy, and $33K to Richard Sales Media), NRSC to Flexpoint Media ($4.7MM, also $217K to OnMessage and $2,317 to i360).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In terms of Rosen's campaign, Fig. 14(b) shows Rosen for Nevada received contributions from at least 19K individuals below the combined FEC maximum. Those contributing over the limit include, but are not limited to the ones shown &#8594;[here]({{ site.url }}/assets/FECpt2/bigdonors/rosen_bigdonors.png)&#8592;. Heller for Senate received contributions from at least 5,600 individuals below the combined FEC maximum. Those contributing over the limit to Heller for Senate include, but are not limited to, those shown &#8594;[here]({{ site.url }}/assets/FECpt2/bigdonors/heller_bigdonors.png)&#8592;. Both opponents received more out-of-state dollars than in-state dollars from individual contributors.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In terms of Rosen's campaign, Fig. 14(b) shows Rosen for Nevada received contributions from at least 19K individuals below the combined FEC maximum. Those contributing over the limit include, but are not limited to the ones shown [here]({{ site.url }}/assets/FECpt2/bigdonors/rosen_bigdonors.png). Heller for Senate received contributions from at least 5,600 individuals below the combined FEC maximum. Those contributing over the limit to Heller for Senate include, but are not limited to, those shown [here]({{ site.url }}/assets/FECpt2/bigdonors/heller_bigdonors.png). Both opponents received more out-of-state dollars than in-state dollars from individual contributors.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig. 14(c) shows that Heller's campaign had transfers from other committees relatively consistently throughout his term, and Rosen's campaign had transfers starting around October 2017 that came in at a much higher rate. The largest ones to Rosen for Nevada were: $1MM from Rosen Victory Fund (also $34.5K from "Rosen Victory Fund (Unitemized)," not clear the distinction), $256K from Arizona Nevada Victory Fund, $185K from 2018 Senate Impact, and $94K from Nevada State Democratic Party. The largest transfers to Heller for Senate were: $153K from Heller Victory Committee, $101K from 2017 Senators Classic Committee, and $63K from 2018 Senators Classic Committee.
 
@@ -691,7 +680,7 @@ _**Scenario: incumbent ahead in fundraising who lost**_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Looking at the individual contributions in Fig. 15(b), we see that incumbent Claire McCaskill dominated overall; however, notice that her campaign has far more out-of-state dollars than in-state, and that Hawley's total individual contributions almost equal McCaskill's in-state contributions. Since the vast majority of out-of-state contributors won't participate in an election for a Congressperson in the end, one wonders whether in-state contributions are a better proxy for support at the polls than overall contributions.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;McCaskill as a candidate contributed $41K. As an individual she contributed $134K. About 28K individuals contributed under the FEC combined limit of $5,400 ($2,700 (primary) + $2,700 (general) = $5,400). More than a few others contributed over the FEC limit; see some of them &#8594;[here]({{ site.url }}/assets/FECpt2/bigdonors/mccaskill_bigdonors.png)&#8592;. (Note that many contributed $21,600, which in the code you can see is the sum of eight one-time contributions, and that $2,700 x 8 = $21,600.)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;McCaskill as a candidate contributed $41K. As an individual she contributed $134K. About 28K individuals contributed under the FEC combined limit of $5,400 ($2,700 (primary) + $2,700 (general) = $5,400). More than a few others contributed over the FEC limit; see some of them [here]({{ site.url }}/assets/FECpt2/bigdonors/mccaskill_bigdonors.png). (Note that many contributed $21,600, which in the code you can see is the sum of eight one-time contributions, and that $2,700 x 8 = $21,600.)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hawley contributed no money to his own principal campaign committee while ~6,000 individuals did amounts totaling under the combined FEC limit. Individuals contributing total amounts over the limit include:
@@ -730,7 +719,7 @@ _**Scenario: incumbent ahead in fundraising who lost**_
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig. 16(a) shows that IEs opposing each candidate picked up around early summer 2018 and dwarfed any IEs advocating the candidates. Big spenders opposing incumbent Heidi Heitkamp were the Senate Leadership Fund to Main Street Media Group ($2.3MM) and NRSC to National Media Research Planning & Placement ($2.1MM). Big spenders opposing challenger Kevin Cramer were SMP to Waterfront Strategies ($2.7MM), DSCC to Great American Media ($2.0MM), and Majority Forward to Waterfront Strategies ($1.1MM).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neither opponent spent personal money on the campaigns. Heitkamp's principal campaign committee, Heidi for Senate, had around 19K individuals contributing below the combined $5,400 FEC limit. Individuals exceeding that limit include, but are not limited to those listed &#8594;[here]({{ site.url }}/assets/FECpt2/bigdonors/heitkamp_bigdonors.png)&#8592;. Cramer's principal campaign committee, Cramer for Senate, had about 2.5K individuals contributing under the combined $5,400 FEC limit. Individuals contributing over the limit include, but are not limited to those listed &#8594;[here]({{ site.url }}/assets/FECpt2/bigdonors/cramer_bigdonors.png)&#8592;.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neither opponent spent personal money on the campaigns. Heitkamp's principal campaign committee, Heidi for Senate, had around 19K individuals contributing below the combined $5,400 FEC limit. Individuals exceeding that limit include, but are not limited to those listed [here]({{ site.url }}/assets/FECpt2/bigdonors/heitkamp_bigdonors.png). Cramer's principal campaign committee, Cramer for Senate, had about 2.5K individuals contributing under the combined $5,400 FEC limit. Individuals contributing over the limit include, but are not limited to those listed [here]({{ site.url }}/assets/FECpt2/bigdonors/cramer_bigdonors.png).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fig. 16(b) shows that the opponents had about the same amount of in-state individual contribution dollars, and that out-of-state individual contributions made up a very high proportion of each (particularly for Heitkamp).
 
@@ -1020,7 +1009,7 @@ _**Scenario: incumbent ahead in fundraising who lost**_
 
 ### Appendix
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you remember from &#8594;[this]({{ site.url }}/assets/FECpt1/house_2018_unexpecteds.png)&#8592; plot in the previous FEC blog post, there is some pattern going on where Democratic challengers in House contests seem to win when the incumbent's funding is over ~$3MM, and lose when the incumbent's funding is below that. We're going to display ten instances where the incumbent was behind and lost and ten where the incumbent was behind and won. Each section is sorted in decreasing order of winner's total funds raised.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you remember from [this]({{ site.url }}/assets/FECpt1/house_2018_unexpecteds.png) plot in the previous FEC blog post, there is some pattern going on where Democratic challengers in House contests seem to win when the incumbent's funding is over ~$3MM, and lose when the incumbent's funding is below that. We're going to display ten instances where the incumbent was behind and lost and ten where the incumbent was behind and won. Each section is sorted in decreasing order of winner's total funds raised.
 
 _**Scenario: incumbent behind in fundraising who lost**_
 
