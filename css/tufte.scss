@@ -131,7 +131,8 @@ h3 {
 h6 {
   font-family: $body-font;
   font-weight: 400;
-  font-size: 1.778rem;
+//  font-size: 1.778rem;
+  font-size: 1.6rem;
   line-height: 1.25;
   width: 55%;
   margin-top: 1.4rem;
@@ -147,11 +148,11 @@ h6 {
 }
 
 p.subtitle {
-  // font-size: 0.82rem;
+  font-size: 0.86rem;
   // font-style: italic;
   // margin-top: 2.1777777777777778rem;
   // margin-bottom: 2.1777777777777778rem;
-  font-size: 0.778rem;
+  // font-size: 0.778rem;
   display: block;
   line-height: 1.08888888888889;
 }
@@ -457,6 +458,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 .topnav img.logo {
   height: 23px;
 }
+
 
 header > nav.group, body footer {
   width: 95%;
