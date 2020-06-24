@@ -93,6 +93,11 @@ body { width: 87.5%;
        max-width: 1400px;
        counter-reset: sidenote-counter; }
 
+header {
+  width: 100%;
+  height: 50px;
+}
+
 // --------- Typography stuff -----------//
 // added rational line height and margins ala http://webtypography.net/intro/
 
@@ -424,19 +429,13 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 .topnav {
   display: flex;
   align-items: center;
-  position: relative;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: $dark-blue;
+  // position: relative;
   height: 50px;
   width: 100%;
-}
-
-.topnav:before {
-  content: "";
-  height: 100%;
-  background-color: $dark-blue;
-  position: absolute;
-  width: 500%;
-  margin-left: -200%;
-  z-index: -1;
 }
 
 .topnav a {
@@ -448,6 +447,11 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 
 .topnav a.logo-link {
   padding: 0 12px;
+  margin-left: 15px;
+}
+
+.topnav a.login-link {
+  margin-left: auto;
 }
 
 .topnav img.logo {
