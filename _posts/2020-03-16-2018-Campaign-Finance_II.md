@@ -108,7 +108,7 @@ _Example #4_<br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now, let's look at where these IEs are going. Each plot below represents, per recipient (i.e., the 'to' in each plot title), IEs advocating and/or opposing candidates. Each plot symbol represents one candidate. It's not immediately apparent, but the plots are sorted in decreasing order of total IE dollars received, from upper left corner to lower right corner (we left some out, go to notebook for full list & plots). Discussion below.
 
-{% marginfigure "/assets/img/FECpt2/ie_WaterfrontStrategies.png">
+{% marginfigure "" "/assets/img/FECpt2/ie_WaterfrontStrategies.png" %}
 
 {% marginfigure "/assets/img/FECpt2/ie_NeboMedia.png" style="width: 100%">
     </a>
