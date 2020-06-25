@@ -102,7 +102,7 @@ _Example #4_<br/>
 * End Citizens United ($11MM).
 
 
-{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/committees_log.png" "Fig. 1 PAC independent expenditures, Republican vs Democrat" %}   
+{% marginfigure "committees scatter" "https://blog.volsweep.com/assets/img/FECpt2/committees_log.png" "Fig. 1 PAC independent expenditures, Republican vs Democrat" %}   
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We see from the plot that most committees make IEs totaling from around $1,000 to $1MM. The committees seem to be spending with respect to candidates affiliated with both major parties, although not always on the same order of magnitude. (Note: This plot does not distinguish between IEs advocating vs opposing.) We also see that committees represented by yellower dots made IEs with respect a large number of candidates (100 or more).
 
