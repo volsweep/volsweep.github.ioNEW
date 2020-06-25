@@ -102,17 +102,17 @@ _Example #4_<br/>
 * End Citizens United ($11MM).
 
 
-{% maincolumn "assets/img/FECpt2/committees_log.png" "Fig. 1 PAC independent expenditures, Republican vs Democrat" %}   
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/committees_log.png" "Fig. 1 PAC independent expenditures, Republican vs Democrat" %}   
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We see from the plot that most committees make IEs totaling from around $1,000 to $1MM. The committees seem to be spending with respect to candidates affiliated with both major parties, although not always on the same order of magnitude. (Note: This plot does not distinguish between IEs advocating vs opposing.) We also see that committees represented by yellower dots made IEs with respect a large number of candidates (100 or more).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now, let's look at where these IEs are going. Each plot below represents, per recipient (i.e., the 'to' in each plot title), IEs advocating and/or opposing candidates. Each plot symbol represents one candidate. It's not immediately apparent, but the plots are sorted in decreasing order of total IE dollars received, from upper left corner to lower right corner (we left some out, go to notebook for full list & plots). Discussion below.
 
-{% marginfigure "waterfront" "/assets/img/FECpt2/ie_WaterfrontStrategies.png" %}
+{% marginfigure "waterfront" "https://blog.volsweep.com/assets/img/FECpt2/ie_WaterfrontStrategies.png" %}
 
-{% marginfigure "nebo" "/assets/img/FECpt2/ie_NeboMedia.png" %}
+{% marginfigure "nebo" "https://blog.volsweep.com/assets/img/FECpt2/ie_NeboMedia.png" %}
 
-{% marginfigure "del ray" "/assets/img/FECpt2/ie_DelRay.png" %}
+{% marginfigure "del ray" "https://blog.volsweep.com/assets/img/FECpt2/ie_DelRay.png" %}
 
 <div class="clearfix">
   <div class="img-container">
