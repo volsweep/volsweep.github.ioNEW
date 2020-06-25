@@ -395,11 +395,6 @@ As discussed in the previous FEC post, the most common scenario is when an incum
 
 {% marginfigure "AL03_committeeTocommitee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_cm2cm.png" "Fig. 8(c) Committee to committee contributions" %}
 
-      <img alt="Alabama district 3 transfer between committees" src="{{ site.url }}/assets/FECpt2/contributions_AL03_cm2cm.png" style="width: 100%">
-    </a>
-  </div>
-</div>
-
 Fig. 8(a) shows the incumbent's principal campaign committee, Mike Rogers for Congress, raised money consistently starting in January 2017. The highest contributors &#x2014; giving $10,000 each &#x2014; included PACs for Blue Cross Blue Shield, Northrop Grumman, Raytheon, Bechtel Group, General Atomics, General Dynamics, PeanutPAC, Harris Corp, and others. Everytown For Gun Safety Action Fund made an $851 IE to SKDKnickerbocker opposing Rogers.
 
 Challenger Mallory Hagan's fundraising started over a year later, around March 2018. The campaign had an advocating IE from Vote Me Too PAC to Facebook for $39 and committee contributions (all under the maximum of $10K) from PACs for CWA-COPE, United Transportation Union, IBEW, End Citizens United, Seeking Justice, Brotherhood of Locomotive Engineers and Trainmen, and RWDSU COPE.
