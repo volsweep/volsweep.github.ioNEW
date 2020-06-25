@@ -16,7 +16,7 @@ date: 2020-03-16 16:00:00 -0400
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Do you have domain knowledge of campaign finance regulations? We do not and would love to discuss. Please email contact@volsweep.com. Cheers, thanks for reading! &#8212;Rebecca*
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The [first post](https://blog.volsweep.com/blog/2019/12/12/2018-Campaign-Finance_I.html) in this series was an overview of trends and exceptions in Congressional midterm contests with respect to party affiliation, incumbency status, and relative funding status. (Recap: incumbents usually lead in fundraising and win. There appear to be some patterns in the exceptions.) This post will be a more in-depth look at the full set of data that the FEC publishes.[^1] As before, all relevant code is in [this](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018) GitHub repo.[^2] See notebook links for full outputs too long to include here. Documentation will improve in the future! Please ask any/all question until then (and after, too).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The [first post](https://blog.volsweep.com/articles/19/2018-Campaign-Finance_I) in this series was an overview of trends and exceptions in Congressional midterm contests with respect to party affiliation, incumbency status, and relative funding status. (Recap: incumbents usually lead in fundraising and win. There appear to be some patterns in the exceptions.) This post will be a more in-depth look at the full set of data that the FEC publishes.[^1] As before, all relevant code is in [this](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018) GitHub repo.[^2] See notebook links for full outputs too long to include here. Documentation will improve in the future! Please ask any/all question until then (and after).
 
 
 ### Data Set 1: "House/Senate current campaigns"
@@ -108,32 +108,17 @@ _Example #4_<br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now, let's look at where these IEs are going. Each plot below represents, per recipient (i.e., the 'to' in each plot title), IEs advocating and/or opposing candidates. Each plot symbol represents one candidate. It's not immediately apparent, but the plots are sorted in decreasing order of total IE dollars received, from upper left corner to lower right corner (we left some out, go to notebook for full list & plots). Discussion below.
 
-{% marginfigure "waterfront" "https://blog.volsweep.com/assets/img/FECpt2/ie_WaterfrontStrategies.png" %}
+{% marginfigure "waterfront" "https://blog.volsweep.com/assets/img/FECpt2/ie_WaterfrontStrategies.png" "Fig. 2 Waterfront Strategies" %}
 
-{% marginfigure "nebo" "https://blog.volsweep.com/assets/img/FECpt2/ie_NeboMedia.png" %}
+{% marginfigure "nebo" "https://blog.volsweep.com/assets/img/FECpt2/ie_NeboMedia.png" "Fig. 3 Nebo Media" %}
 
-{% marginfigure "del ray" "https://blog.volsweep.com/assets/img/FECpt2/ie_DelRay.png" %}
+{% marginfigure "del ray" "https://blog.volsweep.com/assets/img/FECpt2/ie_DelRay.png" "Fig. 4 Del Ray Media" %}
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 5: Bully Pulpit Interactive</span><br/>
-    <a href="{{ site.url }}/assets/FECpt2/ie_BullyPulpitInteractive.png">
-      <img alt="Bully Pulpit Interactive" src="{{ site.url }}/assets/FECpt2/ie_BullyPulpitInteractive.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 6: SKDKnickerbocker</span><br/>
-    <a href="{{ site.url }}/assets/FECpt2/ie_SKDKnickerbocker.png">
-      <img alt="SKDK" src="{{ site.url }}/assets/FECpt2/ie_SKDKnickerbocker.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 7: Facebook</span><br/>
-    <a href="{{ site.url }}/assets/FECpt2/ie_Facebook.png">
-      <img alt="Facebook" src="{{ site.url }}/assets/FECpt2/ie_Facebook.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% marginfigure "bully pulpit" "https://blog.volsweep.com/assets/img/FECpt2/ie_BullyPulpitInteractive.png" "Fig. 5 Bully Pulpit Interactive" %}
+
+{% marginfigure "SKDK" "https://blog.volsweep.com/assets/img/FECpt2/ie_SKDKnickerbocker.png" "Fig. 6 SKDKnickerbocker" %}
+
+{% marginfigure "Facebook" "https://blog.volsweep.com/assets/img/FECpt2/ie_Facebook.png" "Fig. 7 Facebook" %}
 
 
 **Waterfront Strategies**
