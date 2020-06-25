@@ -389,17 +389,12 @@ As discussed in the previous FEC post, the most common scenario is when an incum
 
 **U.S. House, Alabama District 3**
 
-{% marginfigure "AL03_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_committee.png" "Fig. 8 AL-03 Committee contributions" %}
+{% marginfigure "AL03_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_committee.png" "Fig. 8(a) AL-03 Committee contributions" %}
 
-  <div class="img-container">
-    <span>Fig. 8(b)</span><br/>
-    <a href="{{ site.url }}/assets/FECpt2/contributions_AL03_individual.png">
-      <img alt="Alabama district 3 individual contributions" src="{{ site.url }}/assets/FECpt2/contributions_AL03_individual.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 8(c)</span><br/>
-    <a href="{{ site.url }}/assets/FECpt2/contributions_AL03_cm2cm.png">
+{% marginfigure "AL03_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_individual.png" "Fig. 8(b) AL-03 Individual contributions" %}
+
+{% marginfigure "AL03_committeeTocommitee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_cm2cm.png" "Fig. 8(c) Committee to committee contributions" %}
+
       <img alt="Alabama district 3 transfer between committees" src="{{ site.url }}/assets/FECpt2/contributions_AL03_cm2cm.png" style="width: 100%">
     </a>
   </div>
