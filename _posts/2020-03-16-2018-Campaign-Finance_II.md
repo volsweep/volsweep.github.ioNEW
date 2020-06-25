@@ -69,6 +69,9 @@ _Example #4_<br/>
 ### Data set 4: "Contributions from committees to candidates & independent expenditures"
 > (lot of notebooks for this one! click on any: [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04ai%20-%202018_CommitteeContributions_clean_withwinner.ipynb), [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04aii%20-%202018_CommitteeContributions_clean_withwinner.ipynb), [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bi%20-%202018_CommitteeContributions_EDA1.ipynb), [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bii%20-%202018_CommitteeContributions_EDA1.ipynb), and [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bii%20-%202018_CommitteeContributions_EDA2.ipynb))
 
+
+{% marginfigure "committees scatter" "https://blog.volsweep.com/assets/img/FECpt2/committees_log.png" "Fig. 1 PAC independent expenditures, Republican vs Democrat" %}   
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This data set has one contribution/independent expenditure (IE from now on) per row.[^3] The different types of contributions/independent expenditures are:
 
 * "contribution made to nonaffiliated committee,"
@@ -101,9 +104,6 @@ _Example #4_<br/>
 * LCV Victory Fund ($14MM),
 * End Citizens United ($11MM).
 
-
-{% marginfigure "committees scatter" "https://blog.volsweep.com/assets/img/FECpt2/committees_log.png" "Fig. 1 PAC independent expenditures, Republican vs Democrat" %}   
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We see from the plot that most committees make IEs totaling from around $1,000 to $1MM. The committees seem to be spending with respect to candidates affiliated with both major parties, although not always on the same order of magnitude. (Note: This plot does not distinguish between IEs advocating vs opposing.) We also see that committees represented by yellower dots made IEs with respect a large number of candidates (100 or more).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now, let's look at where these IEs are going. Each plot below represents, per recipient (i.e., the 'to' in each plot title), IEs advocating and/or opposing candidates. Each plot symbol represents one candidate. It's not immediately apparent, but the plots are sorted in decreasing order of total IE dollars received, from upper left corner to lower right corner (we left some out, go to notebook for full list & plots). Discussion below.
@@ -123,32 +123,32 @@ _Example #4_<br/>
 
 **Waterfront Strategies**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Waterfront Strategies has no direct online presence. It received at least $246MM in IEs. As you can see in the plot, the advocating vs opposing split is highly partisan, with about 10% of IEs advocating Democratic-affiliated candidates (many of whom were challengers) and about 90% of IEs opposing Republican-affiliated candidates. Those three Democratic-affiliated incumbents standing out on the right (blue circles) are Bill Nelson ($7.1MM), Joe Manchin III ($4.6MM), and Joe Donnelly ($2.7MM). The largest total IEs to Waterfront Strategies came from SMP ($96.9MM), House Majority PAC ($49.7MM), Majority Forward ($39.5MM), and Women Vote! ($18.8MM).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Waterfront Strategies (Fig. 2) has no direct online presence. It received at least $246MM in IEs. As you can see in the plot, the advocating vs opposing split is highly partisan, with about 10% of IEs advocating Democratic-affiliated candidates (many of whom were challengers) and about 90% of IEs opposing Republican-affiliated candidates. Those three Democratic-affiliated incumbents standing out on the right (blue circles) are Bill Nelson ($7.1MM), Joe Manchin III ($4.6MM), and Joe Donnelly ($2.7MM). The largest total IEs to Waterfront Strategies came from SMP ($96.9MM), House Majority PAC ($49.7MM), Majority Forward ($39.5MM), and Women Vote! ($18.8MM).
 
 
 **Nebo Media**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nebo Media doesn't have a direct online presence, either. It received at least $112.7MM in IEs, the vast majority of it from the Congressional Leadership Fund (over $112MM). Almost 95% of the total IE dollar amount Nebo Media received went toward opposing candidates. Looking at the plot, the IEs _advocated_ Republican-affiliated candidates (mostly incumbents) and _opposed_ mostly Democratic-affiliated challengers. Interestingly, some Republican-affiliated candidates were opposed; they are Young Kim, Rodney Davis, and Dana Rohrabacher, who were all opposed by the Congressional Leadership Fund.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nebo Media (Fig. 3) doesn't have a direct online presence, either. It received at least $112.7MM in IEs, the vast majority of it from the Congressional Leadership Fund (over $112MM). Almost 95% of the total IE dollar amount Nebo Media received went toward opposing candidates. Looking at the plot, the IEs _advocated_ Republican-affiliated candidates (mostly incumbents) and _opposed_ mostly Democratic-affiliated challengers. Interestingly, some Republican-affiliated candidates were opposed; they are Young Kim, Rodney Davis, and Dana Rohrabacher, who were all opposed by the Congressional Leadership Fund.
 
 
 [**Del Ray Media**](http://delraymediabuying.com/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Del Ray Media has a very minimal [online presence](http://delraymediabuying.com/). It received almost $54.4MM in IEs, 98% of which was in opposition to candidates. We see in the plot that there are three Republican-affiliated candidates advocated, whereas almost all the opposed candidates are Democratic-affiliated challengers. The IEs came from NRCC ($49.5MM) and NRSC ($4.8MM).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Del Ray Media (Fig. 4) has a very minimal [online presence](http://delraymediabuying.com/). It received almost $54.4MM in IEs, 98% of which was in opposition to candidates. We see in the plot that there are three Republican-affiliated candidates advocated, whereas almost all the opposed candidates are Democratic-affiliated challengers. The IEs came from NRCC ($49.5MM) and NRSC ($4.8MM).
 
 
 [**Bully Pulpit Interactive**](https://bpimedia.com/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bully Pulpit Interactive (BPI) has a pretty strong [online presence](https://bpimedia.com/). It received $41.7MM in IEs, $26.7MM of which came from Priorities USA Action. Other big spenders included Independence USA PAC ($5.9MM), NextGen Climate Action Committee ($3.9MM), Human Rights Campaign Equality Votes ($1.7MM), and LCV Victory Fund ($1.4MM). About 35% of IE dollars to BPI advocated candidates, and about 65% opposed. The U.S. Senate Florida contest saw a lot of IEs flowing to BPI, mostly from Priorities USA Action, with $4.5MM advocating incumbent Bill Nelson and $5.9MM opposing Rick Scott.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bully Pulpit Interactive (BPI) (Fig. 5) has a pretty strong [online presence](https://bpimedia.com/). It received $41.7MM in IEs, $26.7MM of which came from Priorities USA Action. Other big spenders included Independence USA PAC ($5.9MM), NextGen Climate Action Committee ($3.9MM), Human Rights Campaign Equality Votes ($1.7MM), and LCV Victory Fund ($1.4MM). About 35% of IE dollars to BPI advocated candidates, and about 65% opposed. The U.S. Senate Florida contest saw a lot of IEs flowing to BPI, mostly from Priorities USA Action, with $4.5MM advocating incumbent Bill Nelson and $5.9MM opposing Rick Scott.
 
 
 [**SKDKnickerbocker**](https://www.skdknick.com/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SKDKnickerbocker](https://www.skdknick.com/) received about $30.5MM in IEs, the overwhelming majority of which came from Independence USA PAC ($25.4MM). Others who made large IEs to SKDKnickerbocker are the Environmental Defense Action Fund ($1.5MM), LCV Victory Fund ($1.4MM), and Everytown for Gun Safety Victory Fund ($724K). Interestingly, Everytown for Gun Safety Victory Fund made a very large number of $851 IEs to SKDKnickerbocker in opposition of candidates. Looking at the plot, the Republican-affiliated incumbent in the middle stands out; this is Randy Hultgren, who had Independence USA PAC spend about $460K opposing him and $19K advocating him. Otherwise the plot is very partisan, with most advocating IEs made with respect to Democratic-affiliated challengers and most opposing IEs made with respect to Republican-affiliated incumbents.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SKDKnickerbocker](https://www.skdknick.com/) (Fig. 6) received about $30.5MM in IEs, the overwhelming majority of which came from Independence USA PAC ($25.4MM). Others who made large IEs to SKDKnickerbocker are the Environmental Defense Action Fund ($1.5MM), LCV Victory Fund ($1.4MM), and Everytown for Gun Safety Victory Fund ($724K). Interestingly, Everytown for Gun Safety Victory Fund made a very large number of $851 IEs to SKDKnickerbocker in opposition of candidates. Looking at the plot, the Republican-affiliated incumbent in the middle stands out; this is Randy Hultgren, who had Independence USA PAC spend about $460K opposing him and $19K advocating him. Otherwise the plot is very partisan, with most advocating IEs made with respect to Democratic-affiliated challengers and most opposing IEs made with respect to Republican-affiliated incumbents.
 
 
 [**Facebook**](https://www.facebook.com/gpa)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Facebook, Inc.](https://www.facebook.com/gpa), received about $4.4MM in IEs, mostly from MoveOn.org Political Action ($2.7MM). Just over 80% of the total IE dollars to Facebook advocated candidates and the rest opposed. As you can see from the plot, proportionately more candidates had IEs both advocating and opposing them than in other plots we've just seen (i.e., the center of the plot is crowded).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Facebook, Inc.](https://www.facebook.com/gpa) (Fig. 7), received about $4.4MM in IEs, mostly from MoveOn.org Political Action ($2.7MM). Just over 80% of the total IE dollars to Facebook advocated candidates and the rest opposed. As you can see from the plot, proportionately more candidates had IEs both advocating and opposing them than in other plots we've just seen (i.e., the center of the plot is crowded).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The lefthand plots two sections down were constructed using this section's data set but are presented where they are in order to allow side-by-side comparisons.
 
@@ -171,12 +171,12 @@ _Example #4_<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In terms of known individual contributors, some make many small contributions and others make a few extremely large ones. Here are the 40 donors with the highest contribution totals (in parentheses) and any itemized totals over $1MM displayed:
 
 * Michael R Bloomberg ($85.9MM)
-  * Independence USA PAC &#8212; $54.3MM
-  * SMP &#8212; $20MM
-  * LCV Victory Fund &#8212; $5MM
-  * Women Vote! &#8212; $1.96MM
-  * VoteVets &#8212; $1.5MM
-  * Planned Parenthood Votes &#8212; $1.5MM<br/><br/>
+  * Independence USA PAC&#8212;$54.3MM
+  * SMP&#8212;$20MM
+  * LCV Victory Fund&#8212;$5MM
+  * Women Vote!&#8212;$1.96MM
+  * VoteVets&#8212;$1.5MM
+  * Planned Parenthood Votes&#8212;$1.5MM<br/><br/>
 
 
 * Thomas F Steyer ($65.7MM)
