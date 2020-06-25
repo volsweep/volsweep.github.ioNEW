@@ -12,7 +12,7 @@ This post is an overview of trends and exceptions in the 2018 data. The next pos
 
 ## U.S. Senate
 
-{% maincolumn "https://blog.volsweep.com/assets/img/FECpt1/senate_2018.png" "2018 Senate contests" %}
+{% marginfigure "full senate" "https://blog.volsweep.com/assets/img/FECpt1/senate_2018.png" "2018 Senate contests" %}
 
 As you can see, most winners are incumbents ahead in funding (that is, you see a lot of solid circles to the right of any other symbol on the same horizontal line). Some notes before we hypothesize:
 

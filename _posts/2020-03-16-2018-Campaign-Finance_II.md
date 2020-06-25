@@ -3,7 +3,7 @@ layout: post
 title: "2018 Campaign Finance, Part II: A Closer Look"
 date: 2020-03-16 16:00:00 -0400
 ---
-*We continue our investigation of FEC campaign finance data sets.* <!--more--> *Observations include:*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We continue our investigation of FEC campaign finance data sets. <!--more--> Observations include:
 
 * *treasurers associated with nearly 100 committees,*
 * *individuals contributing tens of millions of dollars to (super-)PACs,*
@@ -13,13 +13,13 @@ date: 2020-03-16 16:00:00 -0400
 * *visual representation of finances for opposing candidates, including...*
 * *evidence that number of in-state individual contributors may be useful in predicting election outcome.*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Do you have domain knowledge of campaign finance regulations? We do not and would love to discuss. Please email contact@volsweep.com. Cheers, thanks for reading! &#8212;Rebecca*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do you have domain knowledge of campaign finance regulations? We do not and would love to discuss. Please email contact@volsweep.com. Cheers, thanks for reading! &#8212;Rebecca
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The [first post](https://blog.volsweep.com/articles/19/2018-Campaign-Finance_I) in this series was an overview of trends and exceptions in Congressional midterm contests with respect to party affiliation, incumbency status, and relative funding status. (Recap: incumbents usually lead in fundraising and win. There appear to be some patterns in the exceptions.) This post will be a more in-depth look at the full set of data that the FEC publishes.[^1] As before, all relevant code is in [this](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018) GitHub repo.[^2] See notebook links for full outputs too long to include here. Documentation will improve in the future! Please ask any/all question until then (and after).
 
 
-### Data Set 1: "House/Senate current campaigns"
+### Data set 1: "House/Senate current campaigns"
 > (notebook [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/01b%20-%202018_HouseSenateCurrentCampaigns_withwinners.ipynb))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This data set has one candidate ID per row. We used this data set to construct the plots in the first post of this series, where we showed candidate fundraising status by contest and compared opponents. We know from this set the following breakdown of the top three contest "types" for each branch of Congress (compared close to election day):
@@ -67,12 +67,11 @@ _Example #4_<br/>
 
 
 ### Data set 4: "Contributions from committees to candidates & independent expenditures"
-> (lot of notebooks for this one! click on any: [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04ai%20-%202018_CommitteeContributions_clean_withwinner.ipynb), [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04aii%20-%202018_CommitteeContributions_clean_withwinner.ipynb), [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bi%20-%202018_CommitteeContributions_EDA1.ipynb), [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bii%20-%202018_CommitteeContributions_EDA1.ipynb), and [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bii%20-%202018_CommitteeContributions_EDA2.ipynb))
-
+> (all of the following notebooks: [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04ai%20-%202018_CommitteeContributions_clean_withwinner.ipynb), [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04aii%20-%202018_CommitteeContributions_clean_withwinner.ipynb), [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bi%20-%202018_CommitteeContributions_EDA1.ipynb), [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bii%20-%202018_CommitteeContributions_EDA1.ipynb), and [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bii%20-%202018_CommitteeContributions_EDA2.ipynb))
 
 {% marginfigure "committees scatter" "https://blog.volsweep.com/assets/img/FECpt2/committees_log.png" "Fig. 1 PAC independent expenditures, Republican vs Democrat" %}   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This data set has one contribution/independent expenditure (IE from now on) per row.[^3] The different types of contributions/independent expenditures are:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This data set has one contribution/independent expenditure (IE from now on) per row {% sidenote "1" "Data sets analyzed in this post found here: [https://www.fec.gov/data/browse-data/?tab=bulk-data](https://www.fec.gov/data/browse-data/?tab=bulk-data)" %}. The different types of contributions/independent expenditures are:
 
 * "contribution made to nonaffiliated committee,"
 * "independent expenditure advocating election of candidate,"
@@ -1433,7 +1432,6 @@ _**Scenario: incumbent behind in fundraising who won**_
 
 _**Footnotes**_
 
-[^1]: Data sets analyzed in this post found here: [https://www.fec.gov/data/browse-data/?tab=bulk-data](https://www.fec.gov/data/browse-data/?tab=bulk-data)
 [^2]: Cleaning notes to consider: 1) all figures are rounded, please check the code notebooks for more precise values, 2) only data pertaining to candidates appearing on final ballots remain, 3) any candidate not affiliated with one of the two major parties has been categorized as, "Third party," 4) some entries in the state abbreviation column do not match those of U.S. states or territories, but we left them for now as they only constitute ~0.2% of total observations (the reason why the state abbreviation per observation is important is that we want to distinguish between in-state contributions/IEs and out-of-state ones), 5) employers and occupations have not been deduped yet.
 [^3]: Read more about independent expenditures: [https://ballotpedia.org/Independent_expenditure](https://ballotpedia.org/Independent_expenditure)
 [^4]: [https://www.fec.gov/help-candidates-and-committees/candidate-taking-receipts/contribution-limits/](https://www.fec.gov/help-candidates-and-committees/candidate-taking-receipts/contribution-limits/)
