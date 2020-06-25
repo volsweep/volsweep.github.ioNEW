@@ -82,9 +82,9 @@ So, what happened?
 * GA_06 &#8212; Democratic *challenger* raised *less* and won.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Again, future posts will discuss whether additional FEC data on funding sources can help improve our Congressional election predictive capacity beyond Hypotheses &#35;1 (that any incumbent ahead in funding will win) and &#35;2 (that House Republican incumbents with less funding are more likely to win than House Republican incumbents with more funding, with a $3-5MM cutoff threshold).
+Again, future posts will discuss whether additional FEC data on funding sources can help improve our Congressional election predictive capacity beyond Hypotheses &#35;1 (that any incumbent ahead in funding will win) and &#35;2 (that House Republican incumbents with less funding are more likely to win than House Republican incumbents with more funding, with a $3-5MM cutoff threshold).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thanks for reading! We'd love to hear what you're thinking&#8212; please leave any thoughts & questions in the comments below. If you'd like a free plot of a particular state/U.S. territory, email us at contact@volsweep.com. &#8212;Rebecca
+Thanks for reading! We'd love to hear what you're thinking&#8212; please leave any thoughts & questions in the comments below. If you'd like a free plot of a particular state/U.S. territory, email us at contact@volsweep.com. &#8212;Rebecca
 
 
 Notes on data cleaning:
