@@ -387,13 +387,13 @@ _**Scenario: incumbent ahead in fundraising who won**_
 
 As discussed in the previous FEC post, the most common scenario is when an incumbent leads in fundraising and wins. We'll go over one example of this to start.
 
-**U.S. House, Alabama District 3**
+**U.S. House, Alabama District 3 (AL-03)**
 
 {% marginfigure "AL03_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_committee.png" "Fig. 8(a)<br />AL-03 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_committee.png)" %}
 
 {% marginfigure "AL03_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_individual.png" "Fig. 8(b)<br />AL-03 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_individual.png)" %}
 
-{% marginfigure "AL03_committeeTocommitee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_cm2cm.png" "Fig. 8(c)<br />AL-03 Committee to committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_cm2cm.png)" %}
+{% marginfigure "AL03_committeeTocommitee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_cm2cm.png" "Fig. 8(c)<br />AL-03 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_cm2cm.png)" %}
 
 Fig. 8(a) shows the incumbent's principal campaign committee, Mike Rogers for Congress, raised money consistently starting in January 2017. The highest contributors &#x2014; giving $10,000 each &#x2014; included PACs for Blue Cross Blue Shield, Northrop Grumman, Raytheon, Bechtel Group, General Atomics, General Dynamics, PeanutPAC, Harris Corp, and others. Everytown For Gun Safety Action Fund made an $851 IE to SKDKnickerbocker opposing Rogers.
 
@@ -410,28 +410,13 @@ _**Scenario: incumbent behind in fundraising who won**_
 
 The two instances of this scenario in the Senate contests are Texas incumbent Ted Cruz's win over challenger/leading fundraiser Beto O'Rourke and New Jersey incumbent Bob Menendez's win over challenger/leading fundraiser Bob Hugin. There are many House contests with Republican incumbents satisfying this scenario; the only one with a Democratic incumbent is Pennsylvania District 8, where incumbent Matt Cartwright beat challenger/leading fundraiser John Chrin. The ones with Republican incumbents will appear in the appendix.
 
-**U.S. Senate, Texas**
+**U.S. Senate, Texas (TX_senate)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 9(a)</span><br/>
-    <a href="{{ site.url }}/assets/FECpt2/contributions_TXsenate_committee.png">
-      <img alt="Texas Senate committee contributions" src="{{ site.url }}/assets/FECpt2/contributions_TXsenate_committee.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 9(b)</span><br/>
-    <a href="{{ site.url }}/assets/FECpt2/contributions_TXsenate_individual.png">
-      <img alt="Texas Senate individual contributions" src="{{ site.url }}/assets/FECpt2/contributions_TXsenate_individual.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 9(c)</span><br/>
-    <a href="{{ site.url }}/assets/FECpt2/contributions_TXsenate_cm2cm.png">
-      <img alt="Texas Senate transfers between committees" src="{{ site.url }}/assets/FECpt2/contributions_TXsenate_cm2cm.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% marginfigure "TXsenate_commitee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_TXsenate_committee.png" "Fig. 9(a)<br />TX_senate committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_TXsenate_committee.png)" %}
+
+{% marginfigure "TXsenate_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_TXsenate_individual.png" "Fig. 9(b)<br />TX_senate individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_TXsenate_individual.png)" %}
+
+{% marginfigure "TXsenate_committeeTocommittee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_TXsenate_cm2cm.png" "Fig. 9(c)<br />TX_senate Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_TXsenate_cm2cm.png)" %}
 
 Fig. 9(a) shows that IEs opposing challenger Beto O'Rourke began earlier than and also dwarf those opposing incumbent Ted Cruz. Big spenders opposing O'Rourke were: Texans Are to Main Street Media Group ($4.7MM, also $250K to Cross Screen Media and $26K to Prime Media Partners), ESAFund to Del Cielo Media ($1.4MM, also $150K to CD, $102K to Wilson Research Strategies, and $35K to McCarthy Hennings Whalen), Club for Growth Action to Target Enterprises ($1.1MM, also $29K to Prime Media Partners). The biggest spender opposing Cruz was Texas Forever, which paid $2.3MM to Waterfront Strategies.
 
