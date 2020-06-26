@@ -391,7 +391,7 @@ As discussed in the previous FEC post, the most common scenario is when an incum
 
 {% marginfigure "AL03_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_committee.png" "Fig. 8(a)<br />AL-03 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_committee.png)" %}
 
-{% marginfigure "AL03_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_individual.png" "Fig. 8(b)<br />AL-03 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_individual.png)"" %}
+{% marginfigure "AL03_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_individual.png" "Fig. 8(b)<br />AL-03 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_individual.png)" %}
 
 {% marginfigure "AL03_committeeTocommitee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_cm2cm.png" "Fig. 8(c)<br />AL-03 Committee to committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_cm2cm.png)" %}
 
