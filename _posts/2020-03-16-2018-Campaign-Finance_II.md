@@ -389,11 +389,11 @@ As discussed in the previous FEC post, the most common scenario is when an incum
 
 **U.S. House, Alabama District 3**
 
-{% marginfigure "AL03_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_committee.png" "Fig. 8(a) AL-03 Committee contributions" %}
+{% marginfigure "AL03_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_committee.png" "Fig. 8(a)<br />AL-03 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_committee.png)" %}
 
-{% marginfigure "AL03_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_individual.png" "Fig. 8(b) AL-03 Individual contributions" %}
+{% marginfigure "AL03_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_individual.png" "Fig. 8(b)<br />AL-03 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_individual.png)"" %}
 
-{% marginfigure "AL03_committeeTocommitee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_cm2cm.png" "Fig. 8(c) Committee to committee contributions" %}
+{% marginfigure "AL03_committeeTocommitee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_cm2cm.png" "Fig. 8(c)<br />AL-03 Committee to committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_AL03_cm2cm.png)" %}
 
 Fig. 8(a) shows the incumbent's principal campaign committee, Mike Rogers for Congress, raised money consistently starting in January 2017. The highest contributors &#x2014; giving $10,000 each &#x2014; included PACs for Blue Cross Blue Shield, Northrop Grumman, Raytheon, Bechtel Group, General Atomics, General Dynamics, PeanutPAC, Harris Corp, and others. Everytown For Gun Safety Action Fund made an $851 IE to SKDKnickerbocker opposing Rogers.
 
