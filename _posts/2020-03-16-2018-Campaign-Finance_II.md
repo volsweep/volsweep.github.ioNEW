@@ -169,20 +169,8 @@ This doesn't seem to be the case, as $246,892 total across two contributions to 
 
 In terms of known individual contributors, some make many small contributions and others make a few extremely large ones. Here are the 40 donors with the highest contribution totals (in parentheses) and any itemized totals over $1MM displayed:
 
-* Michael R Bloomberg ($85.9MM)
-  * Independence USA PAC &#8212; $54.3MM
-  * SMP &#8212; $20MM
-  * LCV Victory Fund &#8212; $5MM
-  * Women Vote! &#8212; $1.96MM
-  * VoteVets &#8212; $1.5MM
-  * Planned Parenthood Votes &#8212; $1.5MM<br/><br/>
-
-
-* Thomas F Steyer ($65.7MM)
-  * NextGen Climate Action Committee &#8212; $52.4MM
-  * Need to Impeach &#8212; $12.1MM<br/><br/>
-
-
+* Michael R Bloomberg ($85.9MM): Independence USA PAC ($54.3MM), SMP ($20MM), LCV Victory Fund ($5MM), Women Vote! ($1.96MM), VoteVets ($1.5MM), Planned Parenthood Votes ($1.5MM)<br />
+* Thomas F Steyer ($65.7MM): NextGen Climate Action Committee ($52.4MM), Need to Impeach ($12.1MM)
 * Sheldon G Adelson ($61.9MM)
   * Congressional Leadership Fund &#8212; $27.5MM
   * Senate Leadership Fund &#8212; $25MM
