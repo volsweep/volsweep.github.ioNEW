@@ -169,203 +169,151 @@ This doesn't seem to be the case, as $246,892 total across two contributions to 
 
 In terms of known individual contributors, some make many small contributions and others make a few extremely large ones. Here are the 40 donors with the highest contribution totals (in parentheses) and any itemized totals over $1MM displayed:
 
-* Michael R Bloomberg ($85.9MM): Independence USA PAC ($54.3MM), SMP ($20MM), LCV Victory Fund ($5MM), Women Vote! ($1.96MM), VoteVets ($1.5MM), Planned Parenthood Votes ($1.5MM)<br />
-* Thomas F Steyer ($65.7MM): NextGen Climate Action Committee ($52.4MM), Need to Impeach ($12.1MM)
-* Sheldon G Adelson ($61.9MM)
-  * Congressional Leadership Fund &#8212; $27.5MM
-  * Senate Leadership Fund &#8212; $25MM
-  * America First Action, Inc. &#8212; $5MM
-  * New Republican PAC &#8212; $2.5MM
-  * ESAFund &#8212; $1MM<br/><br/>
-
-
-* Miriam O Adelson ($61.7MM)
-  * Congressional Leadership Fund &#8212; $27.5MM
-  * Senate Leadership Fund &#8212; $25MM
-  * America First Action, Inc. &#8212; $5MM
-  * New Republican PAC &#8212; $2.5MM
-  * ESAFund &#8212; $1MM  <br/><br/>
-
-
-* Richard Uihlein ($34.8MM)
-  * Restoration PAC &#8212; $8.20MM
-  * Americas PAC &#8212; $5.4MM
-  * Solutions for Wisconsin &#8212; $4.4MM
-  * Club for Growth Action &#8212; $3.2MM
-  * CFG Action Wisconsin &#8212; $2.5MM
-  * Tea Party Patriots Citizens Fund &#8212; $2MM
-  * CFG Action Missouri &#8212; $2MM<br/><br/>
-
-
-* Selwyn Donald Sussman ($24.5MM)
-  * Priorities USA Action &#8212; $6.45MM
-  * SMP &#8212; $5.25MM
-  * House Majority PAC &#8212; $4.75MM
-  * Women Vote! &#8212; $2.8MM
-  * Democratic Grassroots Victory Fund &#8212; $1.6MM
-  * Win Justice &#8212; $1.1MM<br/><br/>
-
-
-* Kenneth C Griffin ($19.4MM)
-  * New Republican PAC &#8212; $10MM
-  * Congressional Leadership Fund &#8212; $4.5MM
-  * DefendArizona &#8212; $2MM
-  * Future45 &#8212; $1MM<br/><br/>
-
-
-* James Harris Simons ($19.4MM)
-  * House Majority PAC &#8212; $10MM
-  * SMP &#8212; $6.8MM<br/><br/>
-
-
-* George Soros ($17.4MM)
-  * Priorities USA Action &#8212; $5MM
-  * Win Justice &#8212; $5MM
-  * SMP &#8212; $3.4MM<br/><br/>
-
-
-* Stephen A Schwarzman ($12.7MM)
-  * Senate Leadership Fund &#8212; $8MM
-  * Congressional Leadership Fund &#8212; $3.8MM<br/><br/>
-
-
-* Fred J Eychaner ($11.4MM)
-  * SMP &#8212; $6MM
-  * House Majority PAC &#8212; $4MM<br/><br/>
+* Michael R Bloomberg, $85.9MM total: *Independence USA PAC ($54.3MM), SMP ($20MM), LCV Victory Fund ($5MM), Women Vote! ($1.96MM), VoteVets ($1.5MM), Planned Parenthood Votes ($1.5MM)*
+* Thomas F Steyer, $65.7MM total: *NextGen Climate Action Committee ($52.4MM), Need to Impeach ($12.1MM)*
+* Sheldon G Adelson, $61.9MM total: *Congressional Leadership Fund ($27.5MM), Senate Leadership Fund ($25MM), America First Action, Inc. ($5MM), New Republican PAC ($2.5MM), ESAFund ($1MM)*
+* Miriam O Adelson, $61.7MM total: *Congressional Leadership Fund ($27.5MM), Senate Leadership Fund ($25MM), America First Action, Inc. ($5MM), New Republican PAC ($2.5MM), ESAFund ($1MM)*
+* Richard Uihlein, $34.8MM total: *Restoration PAC ($8.20MM), Americas PAC ($5.4MM), Solutions for Wisconsin ($4.4MM), Club for Growth Action ($3.2MM), CFG Action Wisconsin ($2.5MM), Tea Party Patriots Citizens Fund ($2MM), CFG Action Missouri ($2MM)*
+* Selwyn Donald Sussman, $24.5MM total: *Priorities USA Action ($6.45MM), SMP ($5.25MM), House Majority PAC ($4.75MM), Women Vote! ($2.8MM), Democratic Grassroots Victory Fund ($1.6MM), Win Justice ($1.1MM)*
+* Kenneth C Griffin, $19.4MM total: *New Republican PAC ($10MM), Congressional Leadership Fund ($4.5MM), DefendArizona ($2MM), Future45 ($1MM)*
+* James Harris Simons, $19.4MM total: *House Majority PAC ($10MM), SMP ($6.8MM)*
+* George Soros, $17.4MM, total: *Priorities USA Action ($5MM), Win Justice ($5MM), SMP ($3.4MM)*
+* Stephen A Schwarzman, $12.7MM total: *Senate Leadership Fund ($8MM), Congressional Leadership Fund ($3.8MM)*
+* Fred J Eychaner, $11.4MM total: *SMP ($6MM), House Majority PAC ($4MM)*
 
 
 * Jeffrey P Bezos ($10.2MM)
-  * With Honor Fund, Inc &#8212; $10.1MM<br/><br/>
+  * With Honor Fund, Inc ($10.1MM<br/><br/>
 
 
 * Timothy Mellon ($10.1MM)
-  * Congressional Leadership Fund &#8212; $10MM<br/><br/>
+  * Congressional Leadership Fund ($10MM<br/><br/>
 
 
 * George M Marcus ($9.7MM)
-  * House Majority PAC &#8212; $5MM
-  * SMP &#8212; $3MM<br/><br/>
+  * House Majority PAC ($5MM
+  * SMP ($3MM<br/><br/>
 
 
 * Reid G Hoffman ($8.5MM)
-  * House Majority PAC &#8212; $3.1MM
-  * SMP &#8212; $2MM
-  * Forward Majority Action &#8212; $1MM<br/><br/>
+  * House Majority PAC ($3.1MM
+  * SMP ($2MM
+  * Forward Majority Action ($1MM<br/><br/>
 
 
 * Charles R Schwab ($8.1MM)
-  * Congressional Leadership Fund &#8212; $3.25MM
-  * Senate Leadership Fund &#8212; $2MM
-  * Future45 &#8212; $1MM<br/><br/>
+  * Congressional Leadership Fund ($3.25MM
+  * Senate Leadership Fund ($2MM
+  * Future45 ($1MM<br/><br/>
 
 
 * Karla T Jurvetson ($7.8MM)
-  * Women Vote! &#8212; $5.4MM
-  * SMP &#8212; $1.1MM<br/><br/>
+  * Women Vote! ($5.4MM
+  * SMP ($1.1MM<br/><br/>
 
 
 * Jeffrey S Yass ($7.6MM)
-  * Club for Growth Action &#8212; $3.8MM
-  * Protect Freedom Political Action Committee Inc &#8212; $1.8MM<br/><br/>
+  * Club for Growth Action ($3.8MM
+  * Protect Freedom Political Action Committee Inc ($1.8MM<br/><br/>
 
 
 * Bernard Marcus ($7.2MM)
-  * Senate Leadership Fund &#8212; $4MM<br/><br/>
+  * Senate Leadership Fund ($4MM<br/><br/>
 
 
 * Seth A Klarman ($6.9MM)
-  * House Majority PAC &#8212; $2.5MM
-  * SMP &#8212; $1.5MM<br/><br/>
+  * House Majority PAC ($2.5MM
+  * SMP ($1.5MM<br/><br/>
 
 
 * Helen O Schwab ($6.8MM)
-  * Congressional Leadership Fund &#8212; $3MM
-  * Senate Leadership Fund &#8212; $2MM
-  * Future45 &#8212; $1MM<br/><br/>
+  * Congressional Leadership Fund ($3MM
+  * Senate Leadership Fund ($2MM
+  * Future45 ($1MM<br/><br/>
 
 
 * Joshua Bekenstein ($6.6MM)
-  * House Majority PAC &#8212; $1.55MM
-  * LCV Victory Fund &#8212; $1.5MM
-  * SMP &#8212; $1.5MM<br/><br/>
+  * House Majority PAC ($1.55MM
+  * LCV Victory Fund ($1.5MM
+  * SMP ($1.5MM<br/><br/>
 
 
 * Ronald Cameron ($6.4MM)
-  * Americans for Prosperity Action Inc (AFP Action) &#8212; $3MM
-  * Senate Leadership Fund &#8212; $1MM
-  * Congressional Leadership Fund &#8212; $1MM<br/><br/>
+  * Americans for Prosperity Action Inc (AFP Action) ($3MM
+  * Senate Leadership Fund ($1MM
+  * Congressional Leadership Fund ($1MM<br/><br/>
 
 
 * Dustin A Moskovitz ($5.7MM)
-  * MoveOn.org Political Action &#8212; $3MM
-  * SMP &#8212; $2MM<br/><br/>
+  * MoveOn.org Political Action ($3MM
+  * SMP ($2MM<br/><br/>
 
 
 * Shiva Ayyadurai ($4.8MM)
-  * Shiva 4 Senate &#8212; $4.8MM<br/><br/>
+  * Shiva 4 Senate ($4.8MM<br/><br/>
 
 
 * Herbert Sandler ($4.8MM)
-  * SMP &#8212; $2.25MM
-  * PowerPACPlus &#8212; $1.85MM<br/><br/>
+  * SMP ($2.25MM
+  * PowerPACPlus ($1.85MM<br/><br/>
 
 
 * Charles B Johnson ($4.6MM)
-  * Congressional Leadership Fund &#8212; $2.15MM
-  * Senate Leadership Fund &#8212; $1.3MM<br/><br/>
+  * Congressional Leadership Fund ($2.15MM
+  * Senate Leadership Fund ($1.3MM<br/><br/>
 
 
 * Geoffrey H Palmer ($4.6MM)
-  * America First Action, Inc. &#8212; $4MM<br/><br/>
+  * America First Action, Inc. ($4MM<br/><br/>
 
 
 * Marlene M Ricketts ($4.1MM)
-  * ESAFund &#8212; $1.8MM
-  * Future45 &#8212; $1.2MM<br/><br/>
+  * ESAFund ($1.8MM
+  * Future45 ($1.2MM<br/><br/>
 
 
 * Dianne Feinstein ($3.5MM)
-  * Feinstein for Senate 2024 &#8212; $3.5MM<br/><br/>
+  * Feinstein for Senate 2024 ($3.5MM<br/><br/>
 
 
 * Cynthia Simon-Skjodt ($3.5MM)
-  * SMP &#8212; $2.5MM
-  * House Majority PAC &#8212; $1MM<br/><br/>
+  * SMP ($2.5MM
+  * House Majority PAC ($1MM<br/><br/>
 
 
 * Marilyn Hawrys Simons ($3.2MM)
-  * SMP &#8212; $1.35MM<br/><br/>
+  * SMP ($1.35MM<br/><br/>
 
 
 * Alexander G Soros ($2.9MM)
-  * SMP &#8212; $2MM<br/><br/>
+  * SMP ($2MM<br/><br/>
 
 
 * Abigail S Wexner ($2.7MM)
-  * With Honor Fund Inc. &#8212; $2.5MM<br/><br/>
+  * With Honor Fund Inc. ($2.5MM<br/><br/>
 
 
 * Henry B Laufer ($2.7MM)
-  * SMP &#8212; $2MM<br/><br/>
+  * SMP ($2MM<br/><br/>
 
 
 * Seth W MacFarlane ($2.7MM)
-  * SMP &#8212; $2.25MM<br/><br/>
+  * SMP ($2.25MM<br/><br/>
 
 
 * Mary A Bergan ($2.1MM)
-  * Freedom Partners Action Fund, Inc &#8212; $2MM<br/><br/>
+  * Freedom Partners Action Fund, Inc ($2MM<br/><br/>
 
 
 * Ronald S Lauder ($2.0MM)
-  * National Horizon &#8212; $1.65MM<br/><br/>
+  * National Horizon ($1.65MM<br/><br/>
 
 
 * Susan Z Mandel ($1.9MM)
-  * Planned Parenthood Votes &#8212; $1.3MM<br/><br/>
+  * Planned Parenthood Votes ($1.3MM<br/><br/>
 
 * David Craig Humphreys ($1.2MM)
-  * Missouri Rising Action &#8212; $1.2MM.<br/><br/>
+  * Missouri Rising Action ($1.2MM.<br/><br/>
 
 
 With the previous FEC blog post in mind, let's go through some contests' cumulative financial plots to see what the fundraising landscape was like leading up to election day. We'll keep an eye out for things like who has more opposition money spent against them (usually in the form of attack ads), who has a higher in-state to out-of-state individual contributions ratio, etc. The statistical modeling in a future post will help us quantify the significance of these observations; right now, we're exploring the scene. As a refresher, see the Senate contest fundraising overview plot [here](https://blog.volsweep.com/assets/img/FECpt1/senate_2018.png) and the House one (without contests where incumbents ahead in fundraising won) [here](https://blog.volsweep.com/assets/img/FECpt1/house_2018_unexpecteds.png). Remember, we're only looking at contests with one incumbent running (i.e., no open seats, no unopposed incumbents, and no contests with more than one incumbent (it did happen once in 2018 due to redistricting)). The faint vertical lines that are the same in every plot are FEC filing deadlines and election day.
