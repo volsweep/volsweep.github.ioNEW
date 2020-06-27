@@ -3,7 +3,7 @@ layout: post
 title: "2018 Campaign Finance, Part II: A Closer Look"
 date: 2020-03-16 16:00:00 -0400
 ---
-######We continue our investigation of FEC campaign finance data sets. <!--more--> Observations include:
+###### We continue our investigation of FEC campaign finance data sets. <!--more--> Observations include:
 
 * *treasurers associated with nearly 100 committees,*
 * *individuals contributing tens of millions of dollars to (super-)PACs,*
