@@ -19,8 +19,7 @@ Do you have domain knowledge of campaign finance regulations? We do not and woul
 The [first post](https://blog.volsweep.com/articles/19/2018-Campaign-Finance_I) in this series was an overview of trends and exceptions in Congressional midterm contests with respect to party affiliation, incumbency status, and relative funding status. (Recap: incumbents usually lead in fundraising and win. There appear to be some patterns in the exceptions.) This post will be a more in-depth look at the full set of data that the FEC publishes.[^1] As before, all relevant code is in [this](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018) GitHub repo.[^2] See notebook links for full outputs too long to include here. Documentation will improve in the future! Please ask any/all question until then (and after).
 
 
-### Data set 1: "House/Senate current campaigns"
-> (notebook [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/01b%20-%202018_HouseSenateCurrentCampaigns_withwinners.ipynb))
+### [Data set 1: "House/Senate current campaigns"](ttps://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/01b%20-%202018_HouseSenateCurrentCampaigns_withwinners.ipynb)
 
 This data set has one candidate ID per row. We used this data set to construct the plots in the first post of this series, where we showed candidate fundraising status by contest and compared opponents. We know from this set the following breakdown of the top three contest "types" for each branch of Congress (compared close to election day):
 
@@ -35,14 +34,12 @@ This data set has one candidate ID per row. We used this data set to construct t
 * 14.6% had a Democratic incumbent running unopposed.
 
 
-### Data set 2: "Candidate-committee linkages"
-> (notebook [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/02a%20-%202018_CandidateCommitteeLinkages_clean.ipynb))
+### [Data set 2: "Candidate-committee linkages"](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/02a%20-%202018_CandidateCommitteeLinkages_clean.ipynb)
 
 This data set has one row per candidate-committee pairing (note that it does not contain committees that are not linked to candidates). You can see the ones linked to at least three candidates, including candidate info, by searching "list starts here" on [this](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/03a%20-%202018_CommitteeMaster_clean.ipynb) page. The following candidates are linked to more than ten committees each: Tammy Baldwin, Sherrod Brown, Joe Donnelly, Heidi Heitkamp, Amy Klobuchar, Claire McCaskill, Bill Nelson, Jacky Rosen, Debbie Stabenow, and Jon Tester.
 
 
-### Data set 3: "Committee master"
-> (notebook [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/03a%20-%202018_CommitteeMaster_clean.ipynb))
+### [Data set 3: "Committee master"](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/03a%20-%202018_CommitteeMaster_clean.ipynb)
 
 This data set has one row per committee. After deduplicating several columns, we found there are some treasurers associated with large numbers of committees, and some addresses associated with large numbers of committees. (A reminder that this is the low end count because committees linked to candidates not appearing on final ballots were removed during cleaning.) Here are some examples (committee counts in parentheses; only treasurers with two or more associated committees shown):
 
@@ -66,8 +63,8 @@ _Example #4_<br/>
 Search the phrase, "look here," in the [notebook](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/03a%20-%202018_CommitteeMaster_clean.ipynb) for full lists of committee names by address and treasurer.
 
 
-### Data set 4: "Contributions from committees to candidates & independent expenditures"
-> (all of the following notebooks: [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04ai%20-%202018_CommitteeContributions_clean_withwinner.ipynb), [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04aii%20-%202018_CommitteeContributions_clean_withwinner.ipynb), [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bi%20-%202018_CommitteeContributions_EDA1.ipynb), [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bii%20-%202018_CommitteeContributions_EDA1.ipynb), and [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bii%20-%202018_CommitteeContributions_EDA2.ipynb))
+### [Data set 4: "Contributions from committees to candidates & independent expenditures"](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04ai%20-%202018_CommitteeContributions_clean_withwinner.ipynb)
+> (additional notebooks: [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04aii%20-%202018_CommitteeContributions_clean_withwinner.ipynb), [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bi%20-%202018_CommitteeContributions_EDA1.ipynb), [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bii%20-%202018_CommitteeContributions_EDA1.ipynb), and [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/04bii%20-%202018_CommitteeContributions_EDA2.ipynb))
 
 This data set has one contribution/independent expenditure (IE from now on) per row {% sidenote "1" "Data sets analyzed in this post found here: [https://www.fec.gov/data/browse-data/?tab=bulk-data](https://www.fec.gov/data/browse-data/?tab=bulk-data)" %}. The different types of contributions/independent expenditures are:
 
@@ -152,14 +149,12 @@ Bully Pulpit Interactive (BPI) (Fig. 5) has a pretty strong [online presence](ht
 The lefthand plots two sections down were constructed using this section's data set but are presented where they are in order to allow side-by-side comparisons.
 
 
-### Data set 5: "Any transaction from one committee to another"
-> (notebook [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/06%20-%20CommitteeToCommittee.ipynb))
+### [Data set 5: "Any transaction from one committee to another"](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/06%20-%20CommitteeToCommittee.ipynb)
 
 We took the subset of this data set containing any transfer to a principal campaign committees. The righthand plots in the next section were constructed using this data set.
 
 
-### Data set 6: "Contributions by individuals"
-> (notebook [here](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/05a%20-%202018_IndividualContributions_clean1.ipynb))
+### [Data set 6: "Contributions by individuals"](https://github.com/volsweep/volsweep.github.io/tree/master/projects/FEC/2018/05a%20-%202018_IndividualContributions_clean1.ipynb)
 
 This data set has one contribution from an individual per row. We had to do a lot of cleaning in this set in particular. Any names containing "anonymous", "unitemized", and/or anything like "hat pass" we switched to simply "Anonymous." The FEC rules state:
 
