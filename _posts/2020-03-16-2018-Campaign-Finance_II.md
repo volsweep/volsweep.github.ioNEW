@@ -3,15 +3,7 @@ layout: post
 title: "2018 Campaign Finance, Part II: A Closer Look"
 date: 2020-03-16 16:00:00 -0400
 ---
-###### We continue our investigation of FEC campaign finance data sets. <!--more--> Observations include:
-
-* *treasurers associated with nearly 100 committees,*
-* *individuals contributing tens of millions of dollars to (super-)PACs,*
-* *individuals appearing to exceed maximum limits to principal campaign committees,*
-* *committees making highest total independent expenditures,*
-* *who's receiving the independent expenditures and for what,*
-* *visual representation of finances for opposing candidates, including...*
-* *evidence that number of in-state individual contributors may be useful in predicting election outcome.*
+###### We continue our investigation of FEC campaign finance data sets. Observations include: treasurers associated with nearly 100 committees, individuals contributing tens of millions of dollars to (super-)PACs, individuals appearing to exceed maximum limits to principal campaign committees, and visual representation of finances for opposing candidates (including evidence that number of in-state individual contributors may be useful in predicting election outcome).<!--more-->
 
 Do you have domain knowledge of campaign finance regulations? We do not and would love to discuss. Please email contact@volsweep.com. Cheers, thanks for reading! &#8212;Rebecca
 
@@ -218,7 +210,7 @@ The two instances of this scenario in the Senate contests are Texas incumbent Te
 
 **U.S. Senate, Texas (TX_senate)**
 
-{% marginfigure "TXsenate_commitee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_TXsenate_committee.png" "Fig. 9(a)<br />TX_senate committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_TXsenate_committee.png)" %}
+{% marginfigure "TXsenate_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_TXsenate_committee.png" "Fig. 9(a)<br />TX_senate committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_TXsenate_committee.png)" %}
 
 {% marginfigure "TXsenate_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_TXsenate_individual.png" "Fig. 9(b)<br />TX_senate individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_TXsenate_individual.png)" %}
 
@@ -231,28 +223,13 @@ Neither opponent personally contributed to the respective principal campaign com
 Fig. 9(c) shows committee transfer totals to Beto for Texas including $4.6MM from the Texas Democratic Party, $36.9K from 2018 Senate Impact, and $16.8K from O'Rourke Washington Democratic Victory Fund. Transfers to Ted Cruz for Senate include $3.9MM from Ted Cruz Victory Committee, $260K from Cruz himself, $200K from Republican Party of Texas, $129K from 2018 Senators Classic Committee, and $124K from Cruz for President.
 
 
-**U.S. Senate, New Jersey**
+**U.S. Senate, New Jersey (NJ_senate)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 10(a)</span><br/>
-    <a href="{{ site.url }}/assets/FECpt2/contributions_NJsenate_committee.png">
-      <img alt="New Jersey Senate committee contributions" src="{{ site.url }}/assets/FECpt2/contributions_NJsenate_committee.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 10(b)</span><br/>
-    <a href="{{ site.url }}/assets/FECpt2/contributions_NJsenate_individual.png">
-      <img alt="New Jersey Senate individual contributions" src="{{ site.url }}/assets/FECpt2/contributions_NJsenate_individual.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 10(c)</span><br/>
-    <a href="{{ site.url }}/assets/FECpt2/contributions_NJsenate_cm2cm.png">
-      <img alt="New Jersey Senate transfers between committees" src="{{ site.url }}/assets/FECpt2/contributions_NJsenate_cm2cm.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% marginfigure "NJsenate_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_NJsenate_committee.png" "Fig. 10(a)<br />NJ_senate committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_NJsenate_committee.png)" %}
+
+{% marginfigure "NJsenate_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_NJsenate_individual.png" "Fig. 10(b)<br />NJ_senate committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_NJsenate_individual.png)" %}
+
+{% marginfigure "NJsenate_committeeTocommittee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_NJsenate_cm2cm.png" "Fig. 10(c)<br />NJ_senate Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_NJsenate_cm2cm.png)" %}
 
 Fig. 10(a) shows that incumbent Mendendez raised contributions to nonaffiliated committees consistently across his term, while challenger Hugin started around February 2018. The IEs opposing Hugin took off in July 2018 and were from SMP to Waterfront Strategies ($7.6MM, also $50K to SCN Strategies), Patients for Affordable Drugs Action to Pier 91 Media ($2.4MM, also $853K to Trilogy Interactive and smaller amounts to Patients for Affordable Drugs Now, Politico, Sea of Reeds, and Insider NJ), Leadership Alliance to Ethica Media ($1.2MM), and Committee to Build the Economy to Switchboard Communications ($25K, also $2K to MMA Consultants). IEs opposing Menendez began later and came mostly from Integrity NJ ($5.7MM to Pinpoint Media, $370K to Advictory, $268K to Mottola Consulting, $156K to US Postmaster, and $100K to Red Maverick Media); also included are $158K from Americas PAC to Statenet, and smaller amounts from Citizens for a Stronger New Jersey to Majority Strategies and Tar Heel Targeting.
 
