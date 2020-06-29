@@ -257,28 +257,13 @@ _**Scenario: incumbent behind in fundraising who lost**_
 
 There are many House contests with Republican incumbents that satisfy this scenario; they will be included in the appendix. Aside from those, there are the three Senate contests below.
 
-**U.S. Senate, Florida**
+**U.S. Senate, Florida (FL_senate)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 12(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_FLsenate_committee.png">
-      <img alt="Florida Senate committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_FLsenate_committee.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 12(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_FLsenate_individual.png">
-      <img alt="Florida Senate individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_FLsenate_individual.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 12(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_FLsenate_cm2cm.png">
-      <img alt="Florida Senate transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_FLsenate_cm2cm.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% marginfigure "FLsenate_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_FLsenate_committee.png" "Fig. 12(a)<br />FL_senate Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_FLsenate_committee.png)" %}
+
+{% marginfigure "FLsenate_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_FLsenate_individual.png" "Fig. 12(b)<br />FL_senate Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_FLsenate_individual.png)" %}
+
+{% marginfigure "FLsenate_committeeTocommittee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_FLsenate_cm2cm.png" "Fig. 12(c)<br />FL_senate Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_FLsenate_cm2cm.png)" %}
 
 First of all, it's important to note that Rick Scott was Governor of Florida for the duration of this contest. Unlike many challengers, he did not have to overcome the hurdle of name recognition.
 
@@ -291,28 +276,13 @@ In Fig. 12(b) we see that 1) Bill Nelson's fundraising from individuals was very
 Fig. 12(c) shows the following largest transfers to Bill Nelson for US Senate: $394K from Florida Senate 2018, $390K from Democratic Executive Committee of Florida, $148K from Florida Senate 2018 (Unitemized) (note: not clear what this distinction means), $99K from 2018 Senate Impact, and $91K from Senate 2018 Impact. Not clear without digging further whether "2018 Senate Impact" and "Senate 2018 Impact" are actually the same committee, but it seems likely. The largest transfers to Rick Scott for Florida were: $968K from Rick Scott Victory Fund, $16K from the Founders Committee, and $10K from Murray Energy PAC.
 
 
-**U.S. Senate, Indiana**
+**U.S. Senate, Indiana (IN_senate)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 13(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_INsenate_committee.png">
-      <img alt="Indiana Senate committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_INsenate_committee.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 13(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_INsenate_individual.png">
-      <img alt="Indiana Senate individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_INsenate_individual.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 13(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_INsenate_cm2cm.png">
-      <img alt="Indiana Senate transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_INsenate_cm2cm.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% marginfigure "INsenate_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_INsenate_committee.png" "Fig. 13(a)<br />IN_senate Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_INsenate_committee.png)" %}
+
+{% marginfigure "INsenate_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_INsenate_individual.png" "Fig. 13(b)<br />IN_senate Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_INsenate_individual.png)" %}
+
+{% marginfigure "INsenate_committeeTocommittee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_INsenate_cm2cm.png" "Fig. 13(c)<br />IN_senate Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_INsenate_cm2cm.png)" %}
 
 Fig. 13(a) shows a similar story to the senate contest in Florida, but here the IEs opposing incumbent Joe Donnelly started later. The largest of those were: Senate Leadership Fund to Main Street Media Group ($11.2MM, also $2.8MM to Cross Screen Media and $834K to Majority Strategies), NRSC to Del Ray Media ($2.9MM, also $1.3MM to Targeted Victory), America First Action Inc. to Red Eagle Media Group ($2.1MM), and National Rifle Association of America Political Victory Fund to Starboard Strategic ($1MM). The largest IEs advocating Donnelly were: SMP to Waterfront Strategies ($2.7MM, also $215K to Bully Pulpit Interactive and $105K to Shorr Johnson Magnus), Black Progressive Action Coalition to Revolution Field Strategies ($942K, also $233K to Resonance Campaigns), and Vote for Hoosier Values to JVA Campaigns ($723K).
 
