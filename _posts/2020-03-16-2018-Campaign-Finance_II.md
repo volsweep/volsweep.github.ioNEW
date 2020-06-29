@@ -154,7 +154,7 @@ This data set has one contribution from an individual per row. We had to do a lo
 
 This doesn't seem to be the case, as $246,892 total across two contributions to Composition Roofers Local Union #30 PAC and $54,458 total across two contributions to Association for Firefighters PAC have no associated donor name(s). These appear to be above the limits allowed by the FEC.
 
-In terms of known individual contributors, some make many small contributions and others make a few extremely large ones. Here are the 20 donors with the highest contribution totals (in parentheses) and any itemized totals over $1MM displayed:
+In terms of known individual contributors, some make many small contributions and others make a few extremely large ones. Here are the 10 donors with the highest contribution totals (in parentheses) and any itemized totals over $1MM displayed:
 
 * __Michael R Bloomberg, $85.9MM total:__ *Independence USA PAC ($54.3MM), SMP ($20MM), LCV Victory Fund ($5MM), Women Vote! ($1.96MM), VoteVets ($1.5MM), Planned Parenthood Votes ($1.5MM)*
 * __Thomas F Steyer, $65.7MM total:__ *NextGen Climate Action Committee ($52.4MM), Need to Impeach ($12.1MM)*
@@ -166,17 +166,6 @@ In terms of known individual contributors, some make many small contributions an
 * __James Harris Simons, $19.4MM total:__ *House Majority PAC ($10MM), SMP ($6.8MM)*
 * __George Soros, $17.4MM, total:__ *Priorities USA Action ($5MM), Win Justice ($5MM), SMP ($3.4MM)*
 * __Stephen A Schwarzman, $12.7MM total:__ *Senate Leadership Fund ($8MM), Congressional Leadership Fund ($3.8MM)*
-* __Fred J Eychaner, $11.4MM total:__ *SMP ($6MM), House Majority PAC ($4MM)*
-* __Jeffrey P Bezos, $10.2MM total:__ *With Honor Fund, Inc ($10.1MM)*
-* __Timothy Mellon, $10.1MM total:__ *Congressional Leadership Fund ($10MM)*
-* __George M Marcus, $9.7MM total:__ *House Majority PAC ($5MM), SMP ($3MM)*
-* __Reid G Hoffman, $8.5MM total:__ *House Majority PAC ($3.1MM), SMP ($2MM), Forward Majority Action ($1MM)*
-* __Charles R Schwab, $8.1MM total:__ *Congressional Leadership Fund ($3.25MM), Senate Leadership Fund ($2MM), Future45 ($1MM)*
-* __Karla T Jurvetson, $7.8MM total:__ *Women Vote! ($5.4MM), SMP ($1.1MM)*
-* __Jeffrey S Yass, $7.6MM total:__ *Club for Growth Action ($3.8MM), Protect Freedom Political Action Committee Inc ($1.8MM)*
-* __Bernard Marcus, $7.2MM total:__ *Senate Leadership Fund ($4MM)*
-* __Seth A Klarman, $6.9MM total:__ *House Majority PAC ($2.5MM), SMP ($1.5MM)*
-
 
 With the previous FEC blog post in mind, let's go through some contests' cumulative financial plots to see what the fundraising landscape was like leading up to election day. We'll keep an eye out for things like who has more opposition money spent against them (usually in the form of attack ads), who has a higher in-state to out-of-state individual contributions ratio, etc. The statistical modeling in a future post will help us quantify the significance of these observations; right now, we're exploring the scene. As a refresher, see the Senate contest fundraising overview plot [here](https://blog.volsweep.com/assets/img/FECpt1/senate_2018.png) and the House one (without contests where incumbents ahead in fundraising won) [here](https://blog.volsweep.com/assets/img/FECpt1/house_2018_unexpecteds.png). Remember, we're only looking at contests with one incumbent running (i.e., no open seats, no unopposed incumbents, and no contests with more than one incumbent (it did happen once in 2018 due to redistricting)). The faint vertical lines that are the same in every plot are FEC filing deadlines and election day.
 
@@ -249,28 +238,13 @@ In Fig. 10(c) we see why Hugin appears so far ahead in fundraising from the plot
 All in all, Fig.s 10(a) & 10(b) resemble plots where the blue line is the incumbent and wins. Whatever financial edge Hugin shows in Fig. 10(c) was not utilized to sufficient effect.
 
 
-**U.S. House, Pennsylvania District 8**
+**U.S. House, Pennsylvania District 8 (PA-08)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 11(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_PA08_committee.png">
-      <img alt="Pennsylvania District 08 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_PA08_committee.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 11(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_PA08_individual.png">
-      <img alt="Pennsylvania District 08 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_PA08_individual.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 11(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_PA08_cm2cm.png">
-      <img alt="Pennsylvania District 08 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_PA08_cm2cm.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% marginfigure "PA08_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_PA08_committee.png" "Fig. 11(a)<br />PA_08 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_PA08_committee.png)" %}
+
+{% marginfigure "PA08_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_PA08_individual.png" "Fig. 11(b)<br />PA_08 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_PA08_individual.png)" %}
+
+{% marginfigure "PA08_committeeTocommittee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_PA08_cm2cm.png" "Fig. 11(c)<br />PA_08 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_PA08_cm2cm.png)" %}
 
 Fig. 11(a) shows that incumbent Matt Cartwright dominated in committee contributions to nonaffiliated committees (the solid line); challenger John Chrin started raising in earnest around June 2018. IEs advocating Cartwright mirrored this with a delay and came mostly from SEIU COPE ($62.3K), and also from For Our Future, MoveOn.org Political Action, Communications Workers of America Working Voices, NEA Advocacy Fund, and Environment America Action Fund. The IEs opposing Cartwright were made by the NRCC ($375.9K to Del Ray Media, $144.7K to FP1 Strategies, and $35.8K to The Strategy Group) and Pennsylvania Pro-Life Federation PAC (<$100 each to Erdman Advertising Marketing and Design and SSS Printing).
 
