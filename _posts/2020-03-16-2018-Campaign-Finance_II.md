@@ -464,8 +464,6 @@ Fig. 20(c) shows significantly more dollars transferred to the challenger's comm
 
 {% marginfigure "OK05_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_OK05_individual.png" "Fig. 21(b)<br />OK_05 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_OK05_individual.png)" %}
 
-{% marginfigure "OK05_committeeTocommittee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_OK05_cm2cm.png" "Fig. 21(c)<br />OK_05 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_OK05_cm2cm.png)" %}
-
 In Fig. 21(a) We see a last-minute injection of IE advocating the challenger, Kendra Horn, which was $452K from Independence USA PAC to SKDKnickerbocker. IEs advocating incumbent Steven Russell were mostly from With Honor Fund Inc.: $94K to Red Eagle Media Group and $18.5K to Poolhouse.
 
 Horn blew away Russell in overall individual contribution dollars, and in particular in-state ones. Kendra Horn for Congress had approximately 1K in-state and just over 300 out-of-state individual contributors. In-state contributor employers include Phillips Murrah, Oklahoma City University, Crowe & Dunlevy, and Oklahoma Heart Hospital; out-of-state contributor employers include Keller Williams, Cultural Heritage Partners, Ploughshares Fund, and Sony Pictures Television. Fourteen individuals contributed over the combined FEC maximum in totals ranging from $5,425 to $8,100; all were in-state.
