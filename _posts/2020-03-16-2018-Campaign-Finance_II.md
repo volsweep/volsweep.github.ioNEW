@@ -293,28 +293,13 @@ In terms of individual contributions, Joe Donnelly contributed $15K to Donnelly 
 Fig. 13(c) shows Braun way ahead of Donnelly in terms of transfers between committees. The largest transfers to Donnelly for Indiana were from Senate Impact 2018 ($492K), Donnelly Victory Fund ($342K), and Democrats for Opportunity Fund ($96K). The largest transfers to Mike Braun for Indiana were from Mike Braun ($15.1MM), Indiana Republican State Committee ($342K), Braun Victory Committee ($202K), Team Braun Committee ($130K), Keep the Senate Red 2018 ($126K), and Missouri for GOP Senate Majority ($111K).
 
 
-**U.S. Senate, Nevada**
+**U.S. Senate, Nevada (NV_senate)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 14(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_NVsenate_committee.png">
-      <img alt="Nevada Senate committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_NVsenate_committee.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 14(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_NVsenate_individual.png">
-      <img alt="Nevada Senate individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_NVsenate_individual.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 14(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_NVsenate_cm2cm.png">
-      <img alt="Nevada Senate transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_NVsenate_cm2cm.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% marginfigure "NVsenate_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_NVsenate_committee.png" "Fig. 14(a)<br />PA_08 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_NVsenate_committee.png)" %}
+
+{% marginfigure "NVsenate_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_NVsenate_individual.png" "Fig. 14(b)<br />NV_senate Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_NVsenate_individual.png)" %}
+
+{% marginfigure "NVsenate_committeeTocommittee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_NVsenate_cm2cm.png" "Fig. 14(c)<br />NV_senate Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_NVsenate_cm2cm.png)" %}
 
 Fig. 14(a) shows that incumbent Dean Heller's fundraising was consistent throughout his term. Interestingly, unlike in other contests we've looked at, it appears that challenger Jacky Rosen started fundraising at the beginning of the incumbent's term. IEs opposing Heller began in earnest around June 2018 and continued strongly through the election. The largest of these were: SMP to Waterfront Strategies ($11.1MM, also $3MM to Blueprint Interactive), DSCC to Great American Media ($7.8MM), Majority Forward to Waterfront Strategies ($2.7MM), American Federation of State County and Municipal Employees PEOPLE to Waterfront Strategies ($1.5MM), and Women Vote! to Waterfront Strategies ($1.5MM). The largest IEs opposing Rosen were: Senate Leadership Fund to Main Street Media Group ($13.2MM, also $1.5MM to Arena Online, $852K to Arena Communications, $217K to DMM Media, $57K to Connection Strategy, and $33K to Richard Sales Media), NRSC to Flexpoint Media ($4.7MM, also $217K to OnMessage and $2,317 to i360).
 
@@ -327,28 +312,13 @@ _**Scenario: incumbent ahead in fundraising who lost**_
 
 The two instances of this scenario in Senate contests are the Missouri Senate contest where incumbent/leading fundraiser Claire McCaskill lost to challenger Joshua Hawley and the North Dakota Senate contest where incumbent/leading fundraiser Heidi Heitkamp lost to challenger Kevin Cramer. There are six instances of this scenario in House contests (all with Republican incumbents) and we will review them in the final section in a plot-reading exercise.
 
-**U.S. Senate, Missouri**
+**U.S. Senate, Missouri (MO_senate)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 15(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_MOsenate_committee.png">
-      <img alt="Missouri Senate committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_MOsenate_committee.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 15(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_MOsenate_individual.png">
-      <img alt="Missouri Senate individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_MOsenate_individual.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 15(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_MOsenate_cm2cm.png">
-      <img alt="Missouri Senate transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_MOsenate_cm2cm.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% marginfigure "MOsenate_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_MOsenate_committee.png" "Fig. 15(a)<br />MO_senate Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_MOsenate_committee.png)" %}
+
+{% marginfigure "MOsenate_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_MOsenate_individual.png" "Fig. 15(b)<br />MO_senate Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_MOsenate_individual.png)" %}
+
+{% marginfigure "MOsenate_committeeTocommittee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_MOsenate_cm2cm.png" "Fig. 15(c)<br />MO_senate Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_MOsenate_cm2cm.png)" %}
 
 The first thing we notice looking at the committee contributions in Fig. 15(a) is that there were a _lot_ of IEs made to oppose candidates. IEs opposing challenger Joshua Hawley picked up pace around February 2018, while IEs opposing incumbent Claire McCaskill came in fast and strong around July 2018 and never let up. The largest IEs opposing Hawley were: SMP to Waterfront Strategies ($15.8MM), Women Vote! to Waterfront Strategies ($4.3MM), Priorities USA Action to Bully Pulpit Interactive ($3.7MM), and Majority Forward to Waterfront Strategies ($2.8MM). The largest IEs opposing McCaskill were: Senate Leadership Fund to Main Street Media Group ($16.1MM), NRSC to National Media Research Planning & Placement ($4.0MM), Americans for Prosperity to In Pursuit Of ($3.9MM), Senate Leadership Fund to Arena Online ($3.5MM), CFG Action Missouri (Club for Growth) to Ax Media ($2.9MM), America First Action, Inc. to Red Eagle Media Group ($2.2MM), NRSC to Cavalry ($1.1MM), and Missouri Rising Action to Strategic Media Services ($1.1MM).
 
@@ -368,28 +338,13 @@ Hawley contributed no money to his own principal campaign committee while ~6,000
 The main committee transfers to McCaskill for Missouri in Fig. 15(c) were $1.7MM total from McCaskill Victory Fund, $900K total from Missouri Democratic State Committee, $176K total from McCaskill 2018 Victory, $167K total from Justice 2018, and $116K total from Senate 2018 Impact. The main committee transfers to Josh Hawley for Senate were $805K total from Hawley Victory Committee, $181K total from Hawley Win Fund, $72K total from Indiana/Missouri Victory Committee, $49K total from Protecting the Majority Committee, and $46K total from Strengthen the Senate Majority 2018.
 
 
-**U.S. Senate, North Dakota**
+**U.S. Senate, North Dakota (ND_senate)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 16(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_NDsenate_committee.png">
-      <img alt="North Dakota Senate committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_NDsenate_committee.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 16(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_NDsenate_individual.png">
-      <img alt="North Dakota Senate individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_NDsenate_individual.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 16(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_NDsenate_cm2cm.png">
-      <img alt="North Dakota Senate transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_NDsenate_cm2cm.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% marginfigure "NDsenate_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_NDsenate_committee.png" "Fig. 16(a)<br />ND_senate Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_NDsenate_committee.png)" %}
+
+{% marginfigure "NDsenate_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_NDsenate_individual.png" "Fig. 16(b)<br />ND_senate Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_NDsenate_individual.png)" %}
+
+{% marginfigure "NDsenate_committeeTocommittee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_NDsenate_cm2cm.png" "Fig. 16(c)<br />ND_senate Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_NDsenate_cm2cm.png)" %}
 
 Fig. 16(a) shows that IEs opposing each candidate picked up around early summer 2018 and dwarfed any IEs advocating the candidates. Big spenders opposing incumbent Heidi Heitkamp were the Senate Leadership Fund to Main Street Media Group ($2.3MM) and NRSC to National Media Research Planning & Placement ($2.1MM). Big spenders opposing challenger Kevin Cramer were SMP to Waterfront Strategies ($2.7MM), DSCC to Great American Media ($2.0MM), and Majority Forward to Waterfront Strategies ($1.1MM).
 
@@ -400,28 +355,13 @@ Fig. 16(b) shows that the opponents had about the same amount of in-state indivi
 Fig. 16(c) shows committee transfers totals including North Dakota Democratic NLP Party's $3.2MM across 20 instances to Heidi for Senate; also included in that curve are Minnesota Democratic-Farmer-Labor Party ($500K), Heidi Victory Fund ($381K), Missouri Democratic State Committee ($200K), Indiana Democratic Congressional Victory Committee ($200K), and others. Cramer for Senate received $397K from Cramer Victory Fund, $118K from Keep the Senate Red 2018, and others <$100K each.
 
 
-**U.S. House, California District 21**
+**U.S. House, California District 21 (CA-21)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 17(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_CA21_committee.png">
-      <img alt="California district 21 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_CA21_committee.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 17(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_CA21_individual.png">
-      <img alt="California district 21 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_CA21_individual.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 17(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_CA21_cm2cm.png">
-      <img alt="California district 21 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_CA21_cm2cm.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% marginfigure "CA21_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_CA21_committee.png" "Fig. 17(a)<br />CA_21 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_CA21_committee.png)" %}
+
+{% marginfigure "CA21_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_CA21_individual.png" "Fig. 17(b)<br />CA_21 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_CA21_individual.png)" %}
+
+{% marginfigure "CA21_committeeTocommittee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_CA21_cm2cm.png" "Fig. 17(c)<br />CA_21 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_CA21_cm2cm.png)" %}
 
 Fig. 17(a) shows incumbent David Valadao had a sizeable lead in contributions to nonaffiliated committees. IEs opposing him started a tiny bit in June 2017 and then shot up starting around September 2018. The largest ones were: Protect Our Kids and Our Healthcare PAC to AKPD Message and Media ($333K, also $216K to the Strategy Group and $34K to David Binder Research), House Majority PAC to Waterfront Strategies ($267K), and Red to Blue CA to Mission Control ($117K). Not many IEs against challenger TJ Cox: NRCC to Del Ray Media ($332K) and two <$200 from National Rifle Association of America Political Victory Fund to Master Print and the Herald Group.
 
@@ -434,28 +374,13 @@ Cox personally contributed $8K to his campaign. Fig. 17(b) shows Cox's individua
 Fig. 17(c) shows no committees transferred in assistance for the incumbent. TJ Cox transferred $150K one-time as "Terrence J Cox" and another $65K across seven instances as "Terrance J Cox". California Candidates Victory Fund transferred $133K. All other transfers were under $100K. This contest looks like effective IEs opposing the incumbent were made while no committees transferred in to assist, and likely more individuals contributed to the challenger.
 
 
-**U.S. House, Florida District 26**
+**U.S. House, Florida District 26 (FL-26)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 18(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_FL26_committee.png">
-      <img alt="Florida district 26 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_FL26_committee.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 18(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_FL26_individual.png">
-      <img alt="Florida district 26 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_FL26_individual.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 18(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_FL26_cm2cm.png">
-      <img alt="Florida district 26 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_FL26_cm2cm.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% marginfigure "FL26_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_FL26_committee.png" "Fig. 18(a)<br />FL_26 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_FL26_committee.png)" %}
+
+{% marginfigure "FL26_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_FL26_individual.png" "Fig. 18(b)<br />FL_26 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_FL26_individual.png)" %}
+
+{% marginfigure "FL26_committeeTocommittee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_FL26_cm2cm.png" "Fig. 18(c)<br />FL_26 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_FL26_cm2cm.png)" %}
 
 Fig. 18(a) shows IEs in this contest started off with some advocating incumbent Carlos Curbelo and then a whole lot more both advocating and opposing challenger Debbie Mucarsel-Powell. Advocating Mucarsel-Powell were: DCCC to Visionary Strategy and Insights ($4.1MM, also $120K to Trilogy Interactive and $57K to 4C Partners), and others under $1MM. The largest opposing Mucarsel-Powell were: Congressional Leadership Fund to Nebo Media ($2.8MM) and NRCC to Del Ray Media ($2.3MM, also $295K to National Media Digital, $79K to SRCP Media, $21K to the Factor, and $4.8K to IMGE).
 
