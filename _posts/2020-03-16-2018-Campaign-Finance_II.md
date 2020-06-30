@@ -595,77 +595,32 @@ _**Scenario: incumbent behind in fundraising who lost**_
 
 {% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NJ03c.png" "Fig. 30(c)<br />NJ-03 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NJ03c.png)" %}
 
-**U.S. House, Minnesota District 03**
+**U.S. House, Minnesota District 03 (MN-03)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 31(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/MN03a.png">
-      <img alt="MN-03 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/MN03a.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 31(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/MN03b.png">
-      <img alt="MN-03 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/MN03b.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 31(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/MN03c.png">
-      <img alt="MN-03 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/MN03c.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/MN03a.png" "Fig. 31(a)<br />MN-03 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/MN03a.png)" %}
 
-**U.S. House, New Jersey District 07**
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/MN03b.png" "Fig. 31(b)<br />MN-03 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/MN03b.png)" %}
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 32(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NJ07a.png">
-      <img alt="NJ-07 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NJ07a.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 32(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NJ07b.png">
-      <img alt="NJ-07 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NJ07b.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 32(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NJ07c.png">
-      <img alt="NJ-07 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NJ07c.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/MN03c.png" "Fig. 31(c)<br />MN-03 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/MN03c.png)" %}
+
+**U.S. House, New Jersey District 07 (NJ-07)**
+
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NJ07a.png" "Fig. 32(a)<br />NJ-07 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NJ07a.png)" %}
+
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NJ07b.png" "Fig. 32(b)<br />NJ-07 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NJ07b.png)" %}
+
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NJ07c.png" "Fig. 32(c)<br />NJ-07 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NJ07c.png)" %}
 
 
 _**Scenario: incumbent behind in fundraising who won**_
 
-**U.S. House, Kentucky District 06**
+**U.S. House, Kentucky District 06 (KY-06)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 33(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/KY06a.png">
-      <img alt="KY-06 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/KY06a.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 33(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/KY06b.png">
-      <img alt="KY-06 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/KY06b.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 33(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/KY06c.png">
-      <img alt="KY-06 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/KY06c.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/KY06a.png" "Fig. 33(a)<br />KY-06 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/KY06a.png)" %}
+
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/KY06b.png" "Fig. 33(b)<br />KY-06 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/KY06b.png)" %}
+
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/KY06c.png" "Fig. 33(c)<br />KY-06 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/KY06c.png)" %}
 
 **U.S. House, Texas District 23**
 
