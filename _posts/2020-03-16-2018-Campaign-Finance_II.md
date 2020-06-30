@@ -541,11 +541,11 @@ _**Scenario: incumbent behind in fundraising who lost**_
 
 **U.S. House, New York District 19 (NY-19)**
 
-{% maincolumn "NY19_committee" "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NY19a.png" "Fig. 24(a)<br />NY_19 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NY19a.png)" %}
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NY19a.png" "Fig. 24(a)<br />NY_19 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NY19a.png)" %}
 
-{% maincolumn "NY19_individual" "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NY19b.png" "Fig. 24(b)<br />NY_19 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NY19b.png)" %}
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NY19b.png" "Fig. 24(b)<br />NY_19 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NY19b.png)" %}
 
-{% maincolumn "NY19_committeeTocommittee" "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NY19c.png" "Fig. 24(c)<br />NY_19 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NY19c.png)" %}
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NY19c.png" "Fig. 24(c)<br />NY_19 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NY19c.png)" %}
 
 **U.S. House, California District 25 (CA-25)**
 
