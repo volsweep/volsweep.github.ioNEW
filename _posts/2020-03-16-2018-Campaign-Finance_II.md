@@ -622,209 +622,74 @@ _**Scenario: incumbent behind in fundraising who won**_
 
 {% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/KY06c.png" "Fig. 33(c)<br />KY-06 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/KY06c.png)" %}
 
-**U.S. House, Texas District 23**
+**U.S. House, Texas District 23 (TX-23)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 34(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/TX23a.png">
-      <img alt="TX-23 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/TX23a.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 34(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/TX23b.png">
-      <img alt="TX-23 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/TX23b.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 34(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/TX23c.png">
-      <img alt="TX-23 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/TX23c.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/TX23a.png" "Fig. 34(a)<br />TX-23 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/TX23a.png)" %}
 
-**U.S. House, New York District 01**
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/TX23b.png" "Fig. 34(b)<br />TX-23 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/TX23b.png)" %}
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 35(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NY01a.png">
-      <img alt="NY-01 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NY01a.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 35(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NY01b.png">
-      <img alt="NY-01 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NY01b.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 35(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NY01c.png">
-      <img alt="NY-01 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NY01c.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/TX23c.png" "Fig. 34(c)<br />TX-23 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/TX23c.png)" %}
 
-**U.S. House, Illinois District 13**
+**U.S. House, New York District 01 (NY-01)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 36(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL13a.png">
-      <img alt="IL-13 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL13a.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 36(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL13b.png">
-      <img alt="IL-13 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL13b.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 36(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL13c.png">
-      <img alt="IL-13 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL13c.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NY01a.png" "Fig. 35(a)<br />NY-01 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/TX23a.png)" %}
 
-**U.S. House, Pennsylvania District 01**
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NY01b.png" "Fig. 35(b)<br />NY-01 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/TX23b.png)" %}
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 37(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/PA01a.png">
-      <img alt="PA-01 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/PA01a.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 37(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/PA01b.png">
-      <img alt="PA-01 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/PA01b.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 37(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/PA01c.png">
-      <img alt="PA-01 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/PA01c.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NY01c.png" "Fig. 35(c)<br />NY-01 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/TX23c.png)" %}
 
-**U.S. House, Indiana District 02**
+**U.S. House, Illinois District 13 (IL-13)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 38(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IN02a.png">
-      <img alt="IN-02 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IN02a.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 38(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IN02b.png">
-      <img alt="IN-02 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IN02b.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 38(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IN02c.png">
-      <img alt="IN-02 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IN02c.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL13a.png" "Fig. 36(a)<br />IL-13 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL13a.png)" %}
 
-**U.S. House, Illinois District 12**
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL13b.png" "Fig. 36(b)<br />IL-13 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL13b.png)" %}
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 39(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/ILcumbentwon/IL12a.png">
-      <img alt="IL-12 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL12a.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 39(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/ILcumbentwon/IL12b.png">
-      <img alt="IL-12 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL12b.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 39(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/ILcumbentwon/IL12c.png">
-      <img alt="IL-12 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL12c.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL13c.png" "Fig. 36(c)<br />IL-13 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL13c.png)" %}
 
-**U.S. House, Washington District 03**
+**U.S. House, Pennsylvania District 01 (PA-01)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 40(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/WA03a.png">
-      <img alt="WA-03 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/WA03a.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 40(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/WA03b.png">
-      <img alt="WA-03 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/WA03b.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 40(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/WA03c.png">
-      <img alt="WA-03 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/WA03c.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/PA01a.png" "Fig. 37(a)<br />PA-01 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/PA01a.png)" %}
 
-**U.S. House, Nebraska District 02**
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/PA01b.png" "Fig. 37(b)<br />PA-01 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/PA01b.png)" %}
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 41(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NE02a.png">
-      <img alt="NE-02 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NE02a.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 41(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NE02b.png">
-      <img alt="NE-02 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NE02b.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 41(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NE02c.png">
-      <img alt="NE-02 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NE02c.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/PA01c.png" "Fig. 37(c)<br />PA-01 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/PA01c.png)" %}
 
-**U.S. House, Ohio District 12**
+**U.S. House, Indiana District 02 (IN-02)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 42(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/OH12a.png">
-      <img alt="OH-12 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/OH12a.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 42(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/OH12b.png">
-      <img alt="OH-12 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/OH12b.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 42(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/OH12c.png">
-      <img alt="OH-12 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/OH12c.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IN02a.png" "Fig. 38(a)<br />IN-02 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IN02a.png)" %}
+
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IN02b.png" "Fig. 38(b)<br />IN-02 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IN02b.png)" %}
+
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IN02c.png" "Fig. 38(c)<br />IN-02 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IN02c.png)" %}
+
+**U.S. House, Illinois District 12 (IL-12)**
+
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL12a.png" "Fig. 39(a)<br />IL-12 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL12a.png)" %}
+
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL12b.png" "Fig. 39(b)<br />IL-12 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL12b.png)" %}
+
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL12c.png" "Fig. 39(c)<br />IL-12 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/IL12c.png)" %}
+
+**U.S. House, Washington District 03 (WA-03)**
+
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/WA03a.png" "Fig. 40(a)<br />WA-03 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/WA03a.png)" %}
+
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/WA03b.png" "Fig. 40(b)<br />WA-03 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/WA03b.png)" %}
+
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/WA03c.png" "Fig. 40(c)<br />WA-03 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/WA03c.png)" %}
+
+**U.S. House, Nebraska District 02 (NE-02)**
+
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NE02a.png" "Fig. 41(a)<br />NE-02 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NE02a.png)" %}
+
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NE02b.png" "Fig. 41(b)<br />NE-02 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NE02b.png)" %}
+
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NE02c.png" "Fig. 41(c)<br />NE-02 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/NE02c.png)" %}
+
+**U.S. House, Ohio District 12 (OH-12)**
+
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/OH12a.png" "Fig. 42(a)<br />OH-12 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/OH12a.png)" %}
+
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/OH12b.png" "Fig. 42(b)<br />OH-12 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/OH12b.png)" %}
+
+{% maincolumn "https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/OH12c.png" "Fig. 42(c)<br />OH-12 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentwon/OH12c.png)" %}
