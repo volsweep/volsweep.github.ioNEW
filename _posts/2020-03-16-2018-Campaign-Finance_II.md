@@ -400,28 +400,13 @@ Approximately 800 in-state and 700 out-of-state individuals contributed to Curbe
 These individual contribution figures are interesting, as in the previous contest we looked at, because although the challenger's in-state individual contributions dollars are lower than the incumbent's, we see that the incumbent's average contribution must have been higher because there are actually more in-state individuals contributing to the challenger. She also appears to have gotten out-of-state attention starting in April 2018 which rode through to election day.
 
 
-**U.S. House, Georgia District 6**
+**U.S. House, Georgia District 6 (GA-06)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 19(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_GA06_committee.png">
-      <img alt="Georgia District 06 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_GA06_committee.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 19(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_GA06_individual.png">
-      <img alt="Georgia District 06 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_GA06_individual.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 19(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_GA06_cm2cm.png">
-      <img alt="Georgia District 06 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_GA06_cm2cm.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% marginfigure "GA06_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_GA06_committee.png" "Fig. 19(a)<br />GA_06 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_GA06_committee.png)" %}
+
+{% marginfigure "GA06_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_GA06_individual.png" "Fig. 19(b)<br />GA_06 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_GA06_individual.png)" %}
+
+{% marginfigure "GA06_committeeTocommittee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_GA06_cm2cm.png" "Fig. 19(c)<br />GA_06 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_GA06_cm2cm.png)" %}
 
 These plots don't look like any we've seen so far! The major IEs opposing the incumbent, Karen Handel, were from DCCC to the following: Screen Strategies Media ($4.4MM), Left Hook Communications ($547K), and Sage Media Planning and Placement ($134MM). The major IEs advocating Handel were from Ending Spending Inc to Mentzer Media Services ($1.1MM, also $106K to DDC and $76K to Nasica Tactical), US Chamber of Commerce to Revolution Media Group ($650K), and NRCC both to Red Eagle Media Group ($426K) and to FP1 Strategies ($270K). The largest IEs advocating the challenger, Lucia McBath, were mostly from Everytown for Gun Safety Victory Fund ($2.1MM to Canal Partners Media, $705K to Bully Pulpit Interactive, $317K to the Pivot Group) and Everytown for Gun Safety Action Fund ($660K to Waterfront Strategies, $285K to Bully Pulpit Interactive, and $268K to Mission Control).
 
@@ -445,28 +430,13 @@ McBath contributed $25 as a candidate to Friends of Lucy McBath Inc. The committ
 Something strange is going on here with the difference in number of in-state contributors. It does look like the challenger had momentum going into election day, but the disparity was still the biggest we've seen so far. In terms of the committee transfers to Friends of Lucia McBath Inc. in Fig. 19(c), those were mostly $40K from Battleground Victory Fund 2018 and $11K from Lucy McBath.
 
 
-**U.S. House, Illinois District 6**
+**U.S. House, Illinois District 6 (IL-06)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 20(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_IL06_committee.png">
-      <img alt="Illinois District 06 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_IL06_committee.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 20(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_IL06_individual.png">
-      <img alt="Illinois District 06 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_IL06_individual.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 20(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_IL06_cm2cm.png">
-      <img alt="Illinois District 06 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_IL06_cm2cm.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% marginfigure "IL06_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_IL06_committee.png" "Fig. 19(a)<br />IL_06 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_PA08_committee.png)" %}
+
+{% marginfigure "IL06_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_IL06_individual.png" "Fig. 19(b)<br />IL_06 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_PA08_individual.png)" %}
+
+{% marginfigure "IL06_committeeTocommittee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_IL06_cm2cm.png" "Fig. 19(c)<br />IL_06 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_IL06_cm2cm.png)" %}
 
 Here, we see the IEs opposing the challenger, Sean Casten, began earlier but ended up totaling significantly less than those opposing incumbent Peter Roskam. The largest ones opposing Casten were Congressional Leadership Fund to Nebo Media ($2.75MM) and the New Prosperity Foundation to XPS Professional Services ($435K). The largest ones opposing Roskam were DCCC to Sage Media Planning and Placement ($1.98MM) and House Majority PAC to Waterfront Strategies ($1.9MM).
 
@@ -488,24 +458,13 @@ Roskam for Congress Committee had just over 2K in-state and just over 1K out-of-
 Fig. 20(c) shows significantly more dollars transferred to the challenger's committee than the incumbent's. By far the largest transfer to Casten was $1.1MM from Casten himself, across eleven instances. The largest to Roskam were far smaller: $81K from Roskam Victory Committee and $45K from GOP Majority Victory Fund.
 
 
-**U.S. House, Oklahoma District 5**
+**U.S. House, Oklahoma District 5 (OK-05)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 21(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_OK05_committee.png">
-      <img alt="Oklahoma District 05 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_OK05_committee.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 21(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_OK05_individual.png">
-      <img alt="Oklahoma District 05 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_OK05_individual.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-  </div>
-</div>
+{% marginfigure "OK05_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_OK05_committee.png" "Fig. 21(a)<br />OK_05 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_OK05_committee.png)" %}
+
+{% marginfigure "OK05_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_OK05_individual.png" "Fig. 21(b)<br />OK_05 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_OK05_individual.png)" %}
+
+{% marginfigure "OK05_committeeTocommittee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_OK05_cm2cm.png" "Fig. 21(c)<br />OK_05 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_OK05_cm2cm.png)" %}
 
 In Fig. 21(a) We see a last-minute injection of IE advocating the challenger, Kendra Horn, which was $452K from Independence USA PAC to SKDKnickerbocker. IEs advocating incumbent Steven Russell were mostly from With Honor Fund Inc.: $94K to Red Eagle Media Group and $18.5K to Poolhouse.
 
@@ -516,28 +475,13 @@ Steve Russell for Congress had around 250 in-state and 100 out-of-state individu
 Note that Fig. 21(c) isn't shown because no transfers were recorded.
 
 
-**U.S. House, Utah District 4**
+**U.S. House, Utah District 4 (UT-04)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 22(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_UT04_committee.png">
-      <img alt="Utah District 04 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_UT04_committee.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 22(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_UT04_individual.png">
-      <img alt="Utah District 04 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_UT04_individual.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 22(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_UT04_cm2cm.png">
-      <img alt="Utah District 04 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_UT04_cm2cm.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% marginfigure "UT04_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_UT04_committee.png" "Fig. 22(a)<br />UT_04 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_UT04_committee.png)" %}
+
+{% marginfigure "UT04_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_UT04_individual.png" "Fig. 22(b)<br />UT_04 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_UT04_individual.png)" %}
+
+{% marginfigure "UT04_committeeTocommittee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_UT04_cm2cm.png" "Fig. 22(c)<br />UT_04 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_UT04_cm2cm.png)" %}
 
 Fig. 22(a) shows something we haven't seen yet; IEs advocating the incumbent increasingly steadily across the term (and then faster closer to election day). These IEs advocating incumbent Mia Love were mostly from VIGOP (Virgin Islands Republican Party), including: $386K to Consolidated Mailing Services, $252K to Forthright Strategies, $152K to Direct Support Services, $44K to Legacy List Management, $38K to Integram, $28K to DSSI, and $14K to Magic Box Group. Another large one was from Congressional Leadership Fund to Nebo Media ($344K).
 
@@ -550,28 +494,13 @@ The IEs opposing the candidates were all made starting in October 2018. The larg
  Fig. 22(c) shows no transfers to McAdams's committee. Friends of Mia Love received large transfers from Utah Republican Party ($123K) and Love Victory Committee ($112K).
 
 
-**U.S. House, Virginia District 10**
+**U.S. House, Virginia District 10 (VA-10)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 23(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_VA10_committee.png">
-      <img alt="Virginia District 10 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_VA10_committee.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 23(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_VA10_individual.png">
-      <img alt="Virginia District 10 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_VA10_individual.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 23(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/contributions_VA10_cm2cm.png">
-      <img alt="Virginia District 10 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/contributions_VA10_cm2cm.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% marginfigure "VA10_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_VA10_committee.png" "Fig. 23(a)<br />VA_10 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_VA10_committee.png)" %}
+
+{% marginfigure "VA10_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_VA10_individual.png" "Fig. 23(b)<br />VA_10 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_VA10_individual.png)" %}
+
+{% marginfigure "VA10_committeeTocommittee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_VA10_cm2cm.png" "Fig. 23(c)<br />VA_10 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_VA10_cm2cm.png)" %}
 
 Fig. 23(a) shows there was a battle of opposing IEs starting around August 2018. The largest IE opposing challenger Jennifer Wexton by far was NRCC to Del Ray Media ($4.4M); NRCC also spent $490K to National Media Digital, $110K to Prime Media Partners, and $35K to IMGE. The large IEs opposing incumbent Barbara Comstock were: DCCC to Amplify Media ($2.6MM, also $276K to GPS Impact and $32K to Murphy Vogel Askew Reilly), Independence USA PAC to SKDKnickerbocker ($1.2MM), and Giffords PAC to the Campaign Group ($980K).
 
@@ -612,74 +541,29 @@ If you remember from [this](https://blog.volsweep.com/assets/img/FECpt1/house_20
 
 _**Scenario: incumbent behind in fundraising who lost**_
 
-**U.S. House, New York District 19**
+**U.S. House, New York District 19 (NY-19)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 24(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NY19a.png">
-      <img alt="NY_19 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NY19a.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 24(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NY19b.png">
-      <img alt="NY_19 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NY19b.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 24(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NY19c.png">
-      <img alt="NY_19 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/NY19c.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% marginfigure "NY19_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_NY19_committee.png" "Fig. 24(a)<br />NY_19 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_NY19_committee.png)" %}
 
-**U.S. House, California District 25**
+{% marginfigure "NY19_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_NY19_individual.png" "Fig. 24(b)<br />NY_19 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_NY19_individual.png)" %}
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 25(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/CA25a.png">
-      <img alt="CA_25 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/CA25a.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 25(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/CA25b.png">
-      <img alt="CA_25 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/CA25b.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 25(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/CA25c.png">
-      <img alt="CA_25 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/CA25c.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% marginfigure "NY19_committeeTocommittee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_NY19_cm2cm.png" "Fig. 24(c)<br />NY_19 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_NY19_cm2cm.png)" %}
 
-**U.S. House, California District 10**
+**U.S. House, California District 25 (CA-25)**
 
-<div class="clearfix">
-  <div class="img-container">
-    <span>Fig. 26(a)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/CA10a.png">
-      <img alt="CA_10 committee contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/CA10a.png" style="width: 100%">
-    </a>
-  </div>  
-  <div class="img-container">
-    <span>Fig. 26(b)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/CA10b.png">
-      <img alt="CA_10 individual contributions" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/CA10b.png" style="width: 100%">
-    </a>
-  </div>
-  <div class="img-container">
-    <span>Fig. 26(c)</span><br/>
-    <a href="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/CA10c.png">
-      <img alt="CA_10 transfers between committees" src="https://blog.volsweep.com/assets/img/FECpt2/appendix/incumbentlost/CA10c.png" style="width: 100%">
-    </a>
-  </div>
-</div>
+{% marginfigure "CA25_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_CA25_committee.png" "Fig. 25(a)<br />CA_25 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_CA25_committee.png)" %}
+
+{% marginfigure "CA25_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_CA25_individual.png" "Fig. 25(b)<br />CA_25 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_CA25_individual.png)" %}
+
+{% marginfigure "CA25_committeeTocommittee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_CA25_cm2cm.png" "Fig. 25(c)<br />CA_25 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_CA25_cm2cm.png)" %}
+
+**U.S. House, California District 10 (CA-10)**
+
+{% marginfigure "CA10_committee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_CA10_committee.png" "Fig. 26(a)<br />CA_10 Committee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_CA10_committee.png)" %}
+
+{% marginfigure "CA10_individual" "https://blog.volsweep.com/assets/img/FECpt2/contributions_CA10_individual.png" "Fig. 26(b)<br />CA_10 Individual contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_CA10_individual.png)" %}
+
+{% marginfigure "CA10_committeeTocommittee" "https://blog.volsweep.com/assets/img/FECpt2/contributions_CA10_cm2cm.png" "Fig. 26(c)<br />CA_10 Intercommittee contributions [(enlarge)](https://blog.volsweep.com/assets/img/FECpt2/contributions_CA10_cm2cm.png)" %}
 
 **U.S. House, Michigan District 08**
 
